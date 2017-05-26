@@ -35,6 +35,7 @@ def fetchPapers(paperCount):
     h.close
     filename = "PubMedFetched\\PubMedFetch_"+str(datetime.date.today())+".txt"
     if not os.path.isfile(filename):
+        os.makedirs("PubMedFetched", exist_ok=True)
         net_handle = Entrez.efetch(db='pubmed', id=ids, rettype='medline', retmode='text')
         output_handle = open(filename,"w")
         output_handle.write(net_handle.read())
