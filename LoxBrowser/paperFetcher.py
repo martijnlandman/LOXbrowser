@@ -14,7 +14,7 @@ TERM = '(("1990"[Date - Publication] : "3000"[Date - Publication]) AND (LOX OR l
 def main():
     paperCount = getPaperCount()
     fetchPapers(paperCount)
-    with open(str(datetime.date.today())+".txt") as handle:
+    with open("PubMedFetched\\PubMedFetch_"+str(datetime.date.today())+".txt") as handle:
         for record in Medline.parse(handle):
             print(record["PMID"])
 
@@ -33,7 +33,7 @@ def fetchPapers(paperCount):
     result = Entrez.read(h)
     ids = result['IdList']
     h.close
-    filename = "PubMedFetch_"+str(datetime.date.today())+".txt"
+    filename = "PubMedFetched\\PubMedFetch_"+str(datetime.date.today())+".txt"
     if not os.path.isfile(filename):
         net_handle = Entrez.efetch(db='pubmed', id=ids, rettype='medline', retmode='text')
         output_handle = open(filename,"w")
