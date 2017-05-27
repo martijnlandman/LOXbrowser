@@ -10,7 +10,7 @@ from Bio import Entrez, Medline
 import time
 import os
 
-TERM = '(("1990"[Date - Publication] : "3000"[Date - Publication]) AND (LOX OR lipoxygenase)) NOT cancer'
+TERM = '(("1990"[Date - Publication] : "3000"[Date - Publication]) AND lipoxygenase) NOT cancer'
 
 def main():
     if checkPubMedFetched():
