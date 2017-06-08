@@ -1,0 +1,5703 @@
+(+)-Valencene
+(-)-epicatechin
+(13S)-HPOT
+(13S)-hydroperoxy-MGDG
+(13alpha) 27-Frido-olean-14(15)-en-(17alpha)-furanyl-3beta-ol
+(18)Fluorodeoxyglucose positron emission tomography
+(22E)-241,242-methyldihomocholest-5,22-dien-3beta-ol
+(5S,6R,7E,9E,11Z,14Z)-6-{[(2R)-2-[(4S)-4-amino-4-carboxybutanamido]-2-[(carboxyme
+(5Z,8Z,10E,14Z)-12-hydroperoxyeicosa-5,8,10,14-tetraenoic acid
+(5Z,8Z,11Z,13E)-15-hydroperoxyeicosa-5,8,11,13-tetraenoic acid
+(5Z,9E,11Z,14Z)-8-hydroperoxyicosa-5,9,11,14-tetraenoic acid
+(9S,13S)-10-oxo-11-phytoenoic acid
+(9Z,11E,13S)-13-hydroperoxyoctadeca-9,11-dienoic acid
+(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoic acid
+(D), Digenea simplex
+(E)-hex-2-enal
+(E)-non-2-enal
+(E,Z)-nona-2,6-dienal
+(S), Sargassum crassifolia
+(S)-(-)-Zearalenone
+(U), Ulva lactuca
+(Z)-3-Hexen-1-ol
+1,1-Diphenyl-picrylhydrazyl stable radical
+1,2 diacylglycerol choline phosphotransferase
+1,2,3-triazole-coumarin hybrids
+1,2,4-triazine
+1,2-Di-O-[(9Z,11E,13S,15Z)-13-hydroperoxy-9,11,15-octadecatrienoyl]-3-O-beta-d-ga
+1,2-dioleoyl-sn-glycero-3-phosphoethanolamine-N1-pyrenesulfonyl
+1,4-Dihydropyrimidine
+1,4-benzoquinone
+1-Octen-3-ol
+1-Oleoyl-2-acetyl-sn-glycerol (OAG) (PubChem CID: 6437085)
+1-aminocyclopropane-1-carboxylate oxidase
+1-aminocyclopropane-1-carboxylate synthase
+1-ethyl-3-(3-dimethylaminoprpyl) carbodiide
+1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine
+10(S),17(S)-protectin
+10-oxo-11-phytoenoic acid
+11-hydroxyeicosatetraenoic acid
+12 lipoxygenase
+12(13) EpOME (PubChem CID: 5356421)
+12(S)-HETE
+12(S)-HPETE
+12(S)-Hydroxyeicosatetraenoic acid
+12(S)-hydroxy-5-cis-8,10-trans-heptadecatrienoic acid
+12(S)-hydroxyeicosatetraenoic acid
+12- and 15-HETEs
+12-H(p)ETE
+12-H(p)ETE, (5Z,8Z,10E,14Z)-12-hydroperoxyeicosa-5,8,10,14-tetraenoic acid
+12-HEPE, 12-hydroxy-5Z,8Z,10E,14Z,17Z-eicosapentaenoic acid
+12-HETE
+12-HETE (PubChem CID: 5353272)
+12-HETE-d8 (PubChem CID: 1436)
+12-HHT
+12-Hydroxylase
+12-LO, 12-lipoxygenase
+12-LOX
+12-LOX, 12-lipoxygenase
+12-Lipoxygenase
+12-O-tetradecanoylphorbol-13-acetate
+12-Oxophytodienoic acid
+12-hydroxyeicosatetraenoic acid
+12-lipoxygenase
+12-lipoxygenase, lipoxygenase
+12-oxophytodienoate reductase 3
+12-oxophytodienoic acid
+12/15 HETEs
+12/15 lipoxygenase
+12/15 lipoxygenases
+12/15-LO Deficient mice
+12/15-LOX
+12/15-LOX = 12/15-lipoxygenase
+12/15-Lipoxygenase
+12/15-lipoxygenase
+13(S)-hydroperoxyoctadecadienoic acid
+13-H(p)ODE
+13-HpODE
+13-lipoxygenase
+15 Lipoxygenase 1
+15(S)-HETE
+15(S)-HETE = 15(S)-hydroxyeicosatetraenoic acid
+15(S)-HPETE
+15(S)-HpETE
+15(S)-hydroperoxyeicosatatraenoic acid
+15(S)-hydroxyeicosatetraenoic acid
+15,20-dihydroxyeicosatetraenoic acid
+15-(S)-hydroxyeicosatetraenoic acid
+15-H(p)ETE
+15-H(p)ETE, (5Z,8Z,11Z,13E)-15-hydroperoxyeicosa-5,8,11,13-tetraenoic acid
+15-HETE
+15-Hydroxyeicosatetraenoic acid
+15-LO
+15-LOX
+15-Lipoxygenase
+15-Lipoxygenase inhibition
+15-Lipoxygenase inhibitors
+15-Lipoxygenase-1
+15-Lipoxygenase-2
+15-epi-lipoxin A4
+15-hydroxyeicosatetraenoic acid
+15-hydroxyeicosatetrienoic acid (15-HETE)
+15-lipoxygenase
+15-lipoxygenase (15-LOX)
+15-lipoxygenase 1
+15-lipoxygenase inhibitory activity
+15-lipoxygenases
+17-HDHA
+17-HDoHE
+17S-HDHA
+17S-hydroxy-docosahexaenoic acid
+18-HEPE
+18-Hydroxyeicosapentaenoic acid
+18-hydroxyeicosapentaenoic acid
+1H-NMR
+1OHase
+1alpha,25(OH)2D3
+2,2-diphenylpicrylhydrazyl
+2-(4-carboxyphenyl-4,4,5,5-tetramethylimidazoline-1-oxyl 3-oxide
+2-AG
+2-Arachidonoylglycerol
+2-Arachidonyl glycerol ester
+2-Arachidonylglycerol
+2-DE
+2-HOT, 2-hydroxy-octadecatrienoic acid
+2-Thioxothiazolidin-4-one
+2-arachidonoyl glycerol
+2-arylbenzo[b]furan
+2-diphenyl-1-picrylhydrazyl radical
+2-phenitidine
+2-phenylethanol
+20-HETE
+20-OH-prostaglandin E2
+20-hydroxyeicosatetraenoic acid
+2010 DG
+2010 Dietary Guidelines for Americans
+23-gem-dimethylcholesta-5-en-3beta-ol
+2D NMR
+2HG, (R)-2-hydroxyglutarate
+2OG, 2-oxoglutarate
+2dHGPC, 1, 2 diheptanoilthio-glycerophosphocholine
+3, 4 dihydroxy benzoic acid
+3,3'-Diaminobenzidine
+3,5-Dinitrobenzoate
+3,5-bis((5-bromo-6-methyl-2-t-aminopyrimidin-4-yl)thio)-4H-1,2,4-triazol-4-amine
+3,5-diethoxycarbonyl-1,4-dihydrocollidine-treated
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+3-Acetyl-11-keto-beta-boswellic acid
+3-Dihydro-4
+3-NT
+3-Nitropropionic acid
+3-O-acetyl-11-keto-beta-boswellic acid
+3-Oxo-2-(2'-pentenyl)-cyclopentane-1-octanoic acid
+3-acetyl-4-hydroxycoumarin
+3-hydroxy pyridine-4-one derivatives
+3-nitrotyrosine
+3D
+3D-QSAR
+3H
+3T3-L1
+3xTg-AD
+4-HDDE
+4-HHE
+4-HNE
+4-Thiadiazole
+4-[(2S,3S)-3-[(1E,3E,5Z,8Z)-tetradeca-1,3,5,8-tetraen-1-yl]oxiran-2-yl]butanoic
+4-amino-5-methylamino-2',7'-difluorofluorescein diacetate
+4-coumarate:CoA ligase
+4-hydoxyhexenal (4-HHE)
+4-hydroxy-2E, 6Z-dodecadienal
+4-hydroxy-2E-hexenal
+4-hydroxy-2E-nonenal
+4-hydroxyalkenals
+42 oligomers
+4CL
+5(S),6(R),7-trihydroxyheptanoic acid methyl ester
+5(S),6(R)-Lipoxin A(4)
+5(S)-hydro(pero)xy-6-trans-8,11,14-cis-eicosatetraenoic acid
+5, 12, and 15 HETEs
+5, 5' dithiobis-2-nitrobenzoic acid
+5,11-Dihydroxyeicosatetraenoic acid
+5,6-DiHETE
+5,8,11,14-eicosatetraynoic acid
+5-Aminolevulinic acid
+5-Benzylidene-2-phenylthiazolinone inhibitors
+5-H(P)ETE
+5-H(p)ETE, (6E,8Z,11Z,14Z)-5-hydroperoxyeicosa-6,8,11,14-tetraenoic acid
+5-HEDH
+5-HETE
+5-HPETE
+5-Hydroxyeicosatetraenoic acid
+5-LO
+5-LO (5-lipoxygenase)
+5-LO activating protein
+5-LO phosphorylation
+5-LOX
+5-LOX inhibition
+5-LOX inhibitors
+5-Lipooxygenase
+5-Lipoxygenase
+5-Lipoxygenase (5-LO)
+5-Lipoxygenase activating protein
+5-Lipoxygenase activating protein (ALOX5AP)
+5-Lipoxygenase inhibitor
+5-Lipoxygenase inhibitors
+5-Lipoxygenase products
+5-Lipoxygenase-activating protein
+5-Lipoxygenase-activating protein (FLAP) inhibitor
+5-Lox
+5-Oxo-ETE
+5-chloro-1-methyl-1H-indole-2-carbaldehyde (PubChem CID: 23004695)
+5-dithiobis-(2-nitrobenzoic acid)
+5-hydroperoxyeicosatetraenoic acid
+5-hydroxy-3',4',7-trimethoxyflavone
+5-lipoxygenase
+5-lipoxygenase activating protein
+5-lipoxygenase activating protein (ALOX5AP)
+5-lipoxygenase inhibitor
+5-lipoxygenase inhibitors
+5-lipoxygenase-activating protein
+5-oxo-ETE
+5-oxo-ETE (PubChem CID: 5283159)
+5-oxoeicosatetraenoic acid
+5-thio-2-nitrobenzoic acid
+5-trimethoxyphenyl)indene
+50MHz ultrasound
+5S-HETE (PubChem CID: 5280733)
+6-Carboxydihydroresveratrol 3-glucoside
+6-dodecanoyl-N,N-dimethyl-2-naphthylamine
+6-keto-prostaglandin F1alpha
+6kPGF(1alpha)
+7(S)-maresin
+7-MaR1
+7-Substituted coumarins
+7-trimethoxy-1-ethyl-2-methyl-3-(2
+8,9-DHET, 8,9-dihydroxy-5Z,11Z,14Z-eicosatrienoic acid
+8-Br-cAMP (PubChem CID: 32014)
+8-H(p)ETE
+8-H(p)ETE, (5Z,9E,11Z,14Z)-8-hydroperoxyeicosa-5,9,11,14-tetraenoic acid
+8-HEPE
+8-IP
+8-anilino-1-naphthalenesulfonic acid
+8-isoprostane
+9-LOX
+9-Lipoxygenase
+9-Lipoxygenase gene
+9-lipoxygenase
+9HpODE (PubChem CID: 9548877)
+9HpOTrE (PubChem CID: 5282864)
+A&beta
+A-79175
+A5L
+AA
+AA (arachidonic acid)
+AA = arachidonic acid
+AA, arachidonic acid
+ABA
+ABCA12 promoter
+ABTS assay
+AC
+ACN
+ACO
+ACS
+ACh
+AD
+ADAM10
+ADAS-cog
+ADC2
+ADHD
+ADME
+ADP
+ADPKD
+AERD
+AERD (aspirin-exacerbated respiratory disease)
+AFP
+AGER
+AGL15, AGAMOUS-LIKE 15
+AGT
+AHA
+AHR
+AHR airway hyper-responsiveness
+AIM2-like receptor
+AIR
+ALA
+ALA alpha-linolenic acid
+ALDH1
+ALF
+ALL
+ALL, acute lymphoblastic leukemia
+ALOX
+ALOX, arachidonate lipoxygenase
+ALOX12
+ALOX15
+ALOX15 gene variation
+ALOX15B
+ALOX5
+ALOX5AP
+ALOX5AP gene
+ALOX5AP rs10507391
+ALR
+ALT
+ALX/FPR2
+AM colonisation
+AMDR
+AMI
+AML, acute myeloid leukemia
+AMP
+AMP-activated kinase (AMPK)
+AMP-activated protein kinase
+ANS
+ANT
+AOS
+AOS/DDE2, ALLENE OXIDE SYNTHASE/DELAYED DEHISCENCE 2
+APP
+APX
+AR
+ARA
+ARDS
+ARF-GAP, ADP-ribosylation factor-GTPase activating protein
+ASA
+ASCA
+ASK1
+ASM
+ASP
+AST
+AT-RvD1
+AT1, angiotensin II receptor type 1
+ATF6
+ATP
+ATP release
+AZ, abscission zone
+AZD6642
+AZP
+Abdominal aortic aneurysm
+Abeta
+Abiotic stress
+Abiotic stress tolerance
+Abscisic acid
+Abscisic acid (ABA)
+Absorption, distribution, metabolism and elimination
+Acacia catechu
+Acclimation
+Aceclofenac
+Acetyl-CoA (PubChem CID: 444493)
+Acetylation
+Acetylcholine
+Acetylcholinesterase
+Acetylcholinesterase inhibitors
+Acetylsalicylic acid
+Ach
+Acid ceramidase (ASAH)
+Acidic
+Acidic soil
+Acorus gramineus
+Actividad fosfolipasa
+Actividad proteinasa
+Activity
+Acute
+Acute bronchitis
+Acute coronary syndrome
+Acute lung infection
+Acute myeloid leukemia
+Acute myocardial infarction
+Acute respiratory distress syndrome
+Acylethanolamides
+Acyrthosiphon pisum
+Adelostemma gracillimum
+Adenosine
+Adipocyte
+Adipogenesis
+Adipokine
+Adipose tissue
+Adipose tissue-angiogenesis
+Adjuvant arthritis
+Adriamycin-Fe(3+)
+Adverse effects
+Aerva javanica
+Affinity chromatography ligand
+Affymetrix
+AgLOX1
+Age
+Ageing
+Agent
+Aggregatibacter actinomycetemcomitans
+Aggregation
+Aging
+Agrimoniin
+AhR
+Airway epithelial cells
+Airway epithelium
+Airway hyperresponsiveness
+Airway inflammation
+Airway responsiveness
+Airway smooth muscle
+Airways
+Akt
+Alcoholism
+Algae
+Algogen
+Aligned self-organizing maps
+Alkapolyene
+Alkenone reductase
+Alkyl protocatechuates
+Allene oxide synthase
+Allergenic proteins
+Allergenicity
+Allergic airway inflammation
+Allergic diseases
+Allergic response
+Allergic rhinitis
+Allergy
+Allium sativum
+Allosteric binding
+Allosteric regulation
+Allostery
+Allyl isothiocyanate
+Allylic alkylation
+Alox 15
+Alox5
+Alpha lipoic acid
+Alternaria alternata
+Alternative activation
+Aluminum
+Alzheimer
+Alzheimer disease
+Alzheimer's Disease
+Alzheimer's disease
+American Heart Association
+Amides
+Amidoximes
+Amine oxidase
+Amino acid
+Aminothiazole
+Ammonium acetate
+Amygdala
+Amyloid
+Amyloid beta
+Amyloid beta peptide
+Amyloid-beta aggregation
+Anacardiaceae
+Anacardic acid
+Anaerobic reaction
+Analgesic activity
+Analgesic effects
+Analytical methods
+Analytical proteomics
+Analytical techniques
+Anandamide
+Anemia-sickle cell
+Angiotensin II
+Angiotensin II type 2 receptor
+Animal model
+Animal studies
+Anisomeles malabarica
+Anthocyanin
+Anthocyanin and lignin biosynthesis
+Anthocyanins
+Anti-/pro-oxidant enzyme
+Anti-5-lipoxygenase
+Anti-Alzheimer agent
+Anti-Bacillus megaterium
+Anti-allergy
+Anti-arthritic
+Anti-diabetic
+Anti-glucosidase
+Anti-hyperalgesic
+Anti-inflammation
+Anti-inflammatory
+Anti-inflammatory activity
+Anti-inflammatory agents, non-steroidal
+Anti-inflammatory and analgesic agents
+Anti-inflammatory capacity
+Anti-inflammatory drugs
+Anti-inflammatory effects
+Anti-leukotriene therapy
+Anti-lipoxygenase
+Anti-secretory
+Antibacterial activity
+Anticancer
+Anticancer activity
+Anticholinesterase
+Antigen
+Antiinflammatory
+Antileukotriene drugs
+Antileukotrienes
+Antimicrobial
+Antimicrobial peptide
+Antimycobacterial
+Antioxidant
+Antioxidant acid conjugates
+Antioxidant activity
+Antioxidant capability
+Antioxidant capacity
+Antioxidant defense system
+Antioxidant drug
+Antioxidant enzyme
+Antioxidant enzymes
+Antioxidant properties
+Antioxidant response element (ARE)
+Antioxidant system
+Antioxidants
+Antioxidative
+Antiplatelet activity
+Antiproliferative activity
+Antiradical activity
+Antiradical activity, cooking treatments
+Antispasmodic
+Anxiety
+Aorta
+Aphid feeding
+Apigenin (CID: 5280443)
+Apigenin-7-O-beta-D-glucopyranoside (CID: 5280704)
+ApoB
+Apoptosis
+Application
+Arabidopsis
+Arabidopsis thaliana
+Arachidonate 5-lipoxygenase
+Arachidonate 5-lipoxygenase inhibitor
+Arachidonic Acid
+Arachidonic Acid (AA) (ARA)
+Arachidonic acid
+Arachidonic acid pathway
+Arachidonoyl-CoA (PubChem CID: 52922027)
+Arbuscular mycorrhiza
+Argentinean highlands
+Aroma compounds
+Arrabidaea
+Arrhenius plot
+Arthritis
+Artocarpus heterophyllus
+Ascorbate
+Ascorbate peroxidase
+Ascorbate-glutathione cycle
+Asp
+Asperenone
+Aspergillus
+Aspergillus flavus
+Aspergillus niger
+Aspergillus oryzae
+Aspirin
+Aspirin non-responders
+Aspirin responders
+Aspirin-exacerbated respiratory disease
+Assay
+Assisted Ventilation
+Association
+Asteraceae
+Asthma
+Astrocyte differentiation
+Atheroma
+Atherosclerosis
+Atopic dermatitis
+Attention
+Autoimmune Diseases
+Autoimmunity
+Autophagy
+Autosomal recessive congenital ichthyosis
+Auxin
+Ayurveda
+Ayurvedic plants
+Azocinyl morpholinone
+B cells
+B-CLL
+B12
+B1AR
+B6
+BACE1
+BAL
+BBB
+BDMAEE (PubChem CID: 18204)
+BDNF
+BEC
+BF(3)
+BH4, tetrahydrobiopterin
+BHT
+BI665915
+BINOL (PubChem CID: 11762)
+BLT(1)
+BLT1
+BLT2
+BMD
+BMI
+BML-111
+BOC-2
+BOP1/2, BLADE ON PETIOLE 1/2
+BRP-7
+BSID
+BTH
+BTP/POZ, Broad-Complex, Tramtrack, and Bric-a-brac/Pox virus and Zinc finger
+Bacillus amyloliquefaciens
+Bacopa monnieri
+Bacteria
+Bacterial infections
+Bacterial lipopolysaccharide
+Bacterial wilt
+Baicalein
+Baicalin
+Bardoxolone methyl
+Barley
+Basidiomycota
+Bayley Scales of Infant Development
+Beauveria bassiana
+Bee venom
+Bee venom PLA(2)
+Behavior
+Benign prostatic hyperplasia
+Benzimidazole
+Benzo-fused heterocycle
+Benzo[d]isothiazole 1,1-dioxide
+Benzodioxole
+Benzoquinone
+Benzoquinones
+Benzoxazole
+Benzoxazole scaffold
+Benzoyldiazene
+Betalain
+Betulin (CID: 72326)
+Bgt
+Bibenzyl
+Bilirubin dimethyl ester
+Binding energy
+Bioactive compounds
+Bioactive lipids
+Bioactivity
+Bioavailability
+Biocatalysis
+Biochemical parameters
+Biocontrol
+Biofuel
+Biological activities
+Biological activity
+Biological membranes
+Biology
+Biomarker
+Biomarkers
+Biomembranes
+Biosynthesis
+Biotransformation
+Bisphenol A
+Bitter melon
+Bivalve clam
+Blackleg disease
+Blast cell number
+Blood cells
+Blood lipids
+Blood retinal barrier
+Blood-brain barrier
+Blueberry
+Blumeria graminis
+Blumeria graminis f. sp. tritici
+Body Mass Index
+Bone
+Bone formation
+Bone marrow
+Bone regeneration
+Bone remodeling
+Boron stress
+Borrelia burgdorferi
+Boswellia serrata
+Boswellic acid
+Boswellic acids
+Bothrops asper
+Bovine carbonic anhydrase II
+Bowman-Birk inhibitor
+Brahmi
+Brain
+Brain development
+Brain inflammation
+Brain-derived neurotropic factor (BDNF)
+Branched amino acids
+Brassica oleracea
+Brassicaceae
+Brassicales
+Brassinosteroids
+Bromination
+Bronchial epithelial cell
+Bronchial epithelium
+Bronchoalveolar lavage
+Brown Norway rats
+Browning
+Buprestidae
+Butyrylcholinesterase
+Bytyrylcholinesterase
+C(6)-aldehyde
+C-reactive protein
+C-reactive protein lipoxygenase
+C. albicans
+C/EBP-beta
+C/EPB homologous protein
+C19 isopimarane norditerpenoid
+C2 domain
+C2H2 zinc fingers
+C4 crop
+C4H
+C5 volatiles
+CAD
+CAM
+CAP-e
+CAPE
+CB
+CB2
+CBB
+CCAAT enhancer binding protein beta
+CCL5
+CCR
+CD
+CD11b = cluster of differentiation molecule 11B
+CD36
+CD8 T cells
+CD8T lymphocytes
+CDDO-dhTFEA, CDDO-9,11-dihydro-trifluoroethyl amide
+CDH1
+CDK2
+CDP-choline
+CDR
+CDTA
+CDTA-soluble fraction
+CE, cholesterol ester
+CF
+CFLAR
+CFP
+CFTR
+CFU
+CH/pi interaction
+CHB
+CHD
+CHI
+CHI3L1
+CHOP
+CHS
+CHhC interaction
+CI
+CIBIC-plus
+CIITA
+CK
+CKD progression
+CKD, chronic kidney disease
+CLA
+CLO3, caleosin3
+CLP
+CML, chronic myelogenous leukemia
+CNS
+COPD
+COX
+COX (cyclooxygenase)
+COX cyclo-oxygenase
+COX, cyclo-oxygenase
+COX-1
+COX-2
+COX-2 inhibitor
+COX-2 selective inhibitors
+COX-2/5-LOX
+COX/LOX inhibitors.
+COX2
+COXs
+CP
+CPI-17
+CPT
+CPT1a, carnitine palmitate transferase 1a
+CREB
+CRHR2
+CRP
+CRP, C-reactive protein
+CRT
+CSE
+CSF
+CST, CAST AWAY RECEPTOR-LIKE KINASE
+CT
+CTLs
+CTP
+CTR1, CONSTITUTIVE TRIPLE RESPONSE 1
+CV
+CVD
+CWM
+CXCR1
+CYP
+CYP2J2
+CYP450
+CYP74
+Ca(2+)-ionophore A23187 (PubChem CID: 11957499)
+Ca2+ channel blockers
+CaLOX1
+Cabernet Sauvignon
+Caco-2 cells
+Cadmium
+Caesalpinia crista and Centella asiatica leaf extract
+Caffeic acid
+Caffeic acid phenethyl ester
+Cajanus cajan
+Calcium
+Calcium-activated potassium channels
+Calotropis procera
+Camellia sinensis
+Camellia sinensis L.
+Carbodiimide
+Carbon cycle
+Carbon-eight volatiles
+Carbonylation
+Cardiac arrest
+Cardiolipin
+Cardioprotection
+Cardiovascular
+Cardiovascular disease
+Cardiovascular diseases
+Carissa opaca
+Carrageenan
+Carthamus oxyacantha
+Carthamus tinctorius
+Case and control study
+Caspases
+Castor
+Catalase
+Catalysis
+Catalytic cycle
+Catechin
+Cathepsin
+Cation transporters
+Cd toxicity
+Cecal ligation and puncture
+Celastrol
+Celecoxib
+Celecoxib analogues
+Cell Biology
+Cell Migration
+Cell culture
+Cell proliferation
+Cell studies
+Cell wall
+Cell wall modification
+Cell-free assay
+Centaurea vlachorum
+Cer, ceramide
+Ceramide
+Cerebral artery
+Cerebral ischemia
+CgmpA
+Chagas disease
+Chanar flour
+Channel gating
+Chaperones
+Characterization
+Chebulagic acid
+ChemR23
+Chemical Biology
+Chemical Genetic Screen
+Chemical biology
+Chemokine
+Chemokine CCL5
+Chenopodium amaranticolor
+Chickpea
+Children
+Chilean strawberry
+Chilling Injury
+Chilling injury
+Chiral analysis
+Chiral column
+Chiral stationary phase
+Chirality
+Chloroplast
+Cholangiocarcinoma
+Chole
+Chromatofocusing
+Chromatographic enantioisolation
+Chromium
+Chromone
+Chronic airway inflammation
+Chronic aluminum load
+Chronic glutamate toxicity
+Chronic inflammation
+Chronic kidney disease
+Chronic myeloid leukemia
+Chronic obstructive pulmonary disease
+Chronic pain
+Chronic rhinosinusitis
+Chronic rhinosinusitis with nasal polyposis
+Cicer arietinum L
+Cigarette smoke
+Cigarette smoking
+Cinnamon
+Cinnamyl esters
+Cinnamyl-3,4-dihydroxy-alpha-cyanocinnamate (CDC) (PubChem CID: 14840979)
+Circular dichroism
+Cisplatin
+Citrobacter rodentium
+Citrus
+Claisen-Schmidt condensation
+Clematis mandshurica
+Click chemistry
+Clinical studies
+Clinical trials
+Cloning
+Clonorchis sinensis
+CoMFA
+CoMSIA
+CoQ10, coenzyme Q10
+Coactosin-like protein
+Cobalt affinity chromatography
+Cochinchina momordica
+Cocoa
+Coffee
+Cognition
+Cognitive dysfunction
+Cognitive function
+Cognitive impairment
+Colchicine
+Coleoptera
+Collagen-induced osteoarthritis
+Colletotrichum graminicola
+Colorimetric assay
+Colpomenia bullosa
+Combretum
+Compartmentalization
+Compatible interaction
+Competitive inhibitor
+Complication
+Compost-like materials
+Compound I
+Computational enzymology
+Computer-aided rational design
+Concanavalin A
+Congenital ichthyosiform erythroderma
+Conidia
+Conjugated linoleic acid isomers
+Conjugated linolenic acid
+Contraception
+Contraceptive Methods--administraction and dosage
+Contraceptive Methods--side effects
+Contrast sensitivity
+Copper
+Copper complexes
+Copper oxide nanoparticles
+Copper(II) complexes
+Copper-glyglycine-prednisolone succinate
+Coriandrum sativum
+Cornish mallow
+Coronary artery disease
+Coronary flow
+Corpus cavernosum
+Cortex
+Cortical thickness
+Cotyledon flour
+Cox-2
+Coxibs
+Coxsackievirus B3
+Crohn's disease
+Crude enzyme extract
+Crustaceans
+Cryptococcus neoformans
+Cryptosporiopsis fungus
+Cryptosporiopsis sp.
+Ctenopharyngodon idellus
+Cucumber
+Culinary herbs
+Cuprizone
+Curcumin
+Curdlan
+Cyanidin-3-O-galactoside
+Cyanobacteria
+Cyathostominosis
+Cyclase
+Cyclin dependent kinase 2
+Cyclo-oxygenase
+Cyclo-oxygenase-2
+Cyclo-oxygenases
+Cyclocoxygenase
+Cyclooxigenases
+Cyclooxygenase
+Cyclooxygenase inhibitors
+Cyclooxygenase pathway
+Cyclooxygenase-2
+Cyclooxygenase-lipoxygenase dual inhibitor
+Cyclopentenone
+Cyclopeptide alkaloids
+Cymbidium mosaic virus
+Cynoglossus semilaevis
+CysLTs
+Cysteine
+Cysteinyl leukotriene receptor
+Cystic fibrosis
+Cystic fibrosis transmembrane conductance regulator
+Cystic kidney disease
+Cytochrome P450
+Cytochrome P450 oxygenase
+Cytochrome P450s
+Cytochrome c
+Cytochrome p450
+Cytokine
+Cytokines
+Cytosolic phospholipase A(2)
+Cytosolic phospholipase A2
+Cytosolic phospholipase A2alpha (cPLA2alpha)
+Cytostatic activity
+Cytotoxicity
+D(max)
+DA
+DAB
+DAB4/ COI1, DELAYED ABSCISSION 4/CORONATINE INSENSITIVE 1
+DAD1, DEFECTIVE ANTHER DEHISCENCE 1
+DAF-FM DA
+DAG
+DAMP
+DAPK1
+DBA/2
+DBS
+DC
+DCC
+DD network
+DDAH-1
+DDC
+DDE1/OPR3, DELAYED DEHISCENCE 1/OXOPHYTODIENOATE-REDUCTASE 3
+DDXs/DHXs
+DEER
+DES
+DExD/H box proteins
+DFR
+DFT calculations
+DG, diacylglycerol
+DGLA
+DGLA, dihomo-gamma-linoleic acid
+DHA
+DIABLO
+DIC, disseminated intravascular coagulation
+DLL-1
+DMAB
+DMFDMA
+DMII
+DMPO
+DMSO
+DMSO = dimethyl sulfoxide
+DNA
+DNA and lipoxygenase
+DNA damage
+DNA methylation
+DOX
+DPA
+DPPC
+DPPH
+DPPH, alpha-diphenyl-beta-picrylhydrazyl
+DRG
+DSH
+DSP
+DT network
+DTNB
+DTNB, 5
+DTP
+DXMS
+Daidzein
+Dairy products
+Darapladib (PubChem CID: 9939609)
+Decadienal
+Dectin-1
+Defence reaction
+Defense
+Defense-related proteins
+Deficiency
+Degranulation
+Delta like protein 1
+Delta-decalactone (PubChem CID: 12810)
+Delta-hexalactone (PubChem CID: 13204)
+Delta-valerolactone (PubChem CID: 10953)
+Deltapsi(m)
+Dendritic cell
+Dendritic cells
+Denervation
+Density functional theory
+Depression
+Dermatophyte
+Derris scandens
+Desaturase
+Desiccation stress
+Desiree
+Deuterium kinetic isotope effect
+Development Stages
+Dexras 1
+Di-endoperoxide
+DiHODE
+DiHOME
+Diabetes
+Diabetes mellitus
+Diabetic cardiomyopathy
+Diabetic nephropathy
+Diabetic peripheral neuropathy
+Diabetic retinopathy
+Diagnosis
+Diarrhoea
+Diastereomer
+Diastereomer separation
+Dicer
+Dichlorvos
+Dickeya solani
+Diclocor
+Diclofenac sodium
+Diet
+Dietary fish oil
+Dietary soy protein
+Diethyl oxalate
+Diethylcarbamazine
+Diethylcarbamazine citrate
+Differential scanning fluorimetry
+Differentially expressed proteome
+Diflunisal
+Digestive enzyme activity
+Dihydroasparagusic acid
+Dioecy
+Diol synthase
+Dioxygenase
+Dipheyl-1-pyrenylphosphine (DPPP)
+Disease progression
+Disease resistance
+Diseases
+Diseases activity
+Dithranol
+Divinyl ether synthase
+Divinyl ethers
+Docking
+Docking studies
+Docking study
+Docosahexaenoic Acid
+Docosahexaenoic acid
+Docosahexaenoic acid (DHA)
+Docosanoid
+Docosanoids
+Docosatriene
+Dog
+Domain interaction
+Dopamine
+Double electron-electron resonance
+Drought stress
+Drug discovery and combination
+Drug metabolism
+Drug-drug network
+Drug-target network
+Dry-cured goose meat
+Dual functional inhibitor
+Dual pH/redox responsive
+Dual positional specificity
+Duranta repens
+Dynamic light scattering
+Dyslipidemia
+Dysmenorrhea
+E(ox)
+E(red)
+E. coli
+E2
+EAE
+EBC
+EC
+ECP
+EDAC
+EDC
+EDC (2-TEDC, PubChem CID: 6069552)
+EDH
+EDHF
+EDHFs
+EDN
+EDTA
+EET
+EETs
+EG
+EGF
+EGFR
+EIB exercise-induced bronchoconstriction
+EIF2AK3
+ELISA
+EM
+EMTU
+EP
+EPA
+EPA, eicosapentaenoic acid (20:5;5Z,8Z,11Z,14Z,17Z)
+EPR
+ER
+ER, endoplasmic reticulum
+ERB
+ERF
+ERK
+ERK pathway
+ERK1/2
+ERN1
+ERO1, endoplasmic reticulum oxidoreductin 1
+ERalpha
+ERbeta
+ESI
+ESI +, electrospray ionization positive mode
+ESI MS
+ESI-, electrospray ionization negative mode
+ESR
+EST
+ET
+ETP
+ETYA
+EV, extracellular vesicles
+EVR, EVERSHED RECEPTOR-LIKE KINASE
+EXP
+EXP, EXPANSIN
+Ear edema
+Ecdysteroids
+Echogenicity
+Edema
+Efferocytosis
+Eicosanoid
+Eicosanoid Biosynthesis
+Eicosanoid pathway
+Eicosanoid-specific Enzymes
+EicosanoidBiomarker
+Eicosanoids
+Eicosapentaenoic Acid
+Eicosapentaenoic acid
+Eicosatetraenoic acid
+Elaidic acid
+Electron paramagnetic resonance spectroscopy
+Electronic-topological approach
+Electrophilic molecules
+Electrophysiology
+Electroporation
+Electrospinning
+Electrospray ionization tandem mass spectrometry
+Eleusine coracana
+Elicitation
+Elk-1
+Elongase
+Embryogenesis
+Embryogenic genes
+Emphysema
+Emu oil
+Endo-glucanases
+Endocannabinoid
+Endocannabinoids
+Endocrine System
+Endogenous allergens
+Endoglucanase
+Endometrium
+Endophytic fungus
+Endothelial Cell
+Endothelial cell
+Endothelial cells
+Endothelial dysfunction
+Endothelin
+Endothelium
+Endothelium-derived hyperpolarizing factor
+Energy metabolism
+Enucleation
+Environmental enrichment
+Environmental pollution
+Enzymatic and non-enzymatic antioxidants
+Enzyme activity
+Enzyme inhibition
+Enzyme inhibitors
+Enzyme kinetics
+Enzymology
+Enzymology/Enzyme mechanisms
+Eosinophil
+Eosinophilic esophagitis
+Eoxin C(4)
+EpOME
+Ephedra multiflora
+Epidermis-type 15-lipoxygenase 2
+Epidermophyton
+Epileptiform activity
+Epithelial cells
+Epithelial growth factor
+Epithelial growth factor receptor
+Epithelial-mesenchymal trophic unit
+Epoxide hydrolase
+Epoxide hydrolase 2
+Epoxy alcohol synthase
+Epoxygenase
+Equine whole blood
+Ergo
+Ergosterol
+Erythropoiesis
+Erythropoietin
+Esculetin
+Esophageal epithelial cell
+Esophagitis
+Essential fatty acid
+Essential fatty acids
+Essential oil
+Estradiol-17beta
+Estrogen receptor beta
+Et(2)O
+EtOAc
+EtOH
+Eth
+Ethanol
+Etherolenic acid
+Ethnobotanical
+Ethnopharmacological
+Ethnopharmacology
+Ethyl trifloroacetate
+Ethylene
+Etiology
+Eucalyptus citriodora
+Eupatilin
+Euphorbia kansui Liou
+Euphorbia neriifolia
+Euphorbia supina
+Everlasting
+Evolution
+Evolution of innate immune system
+Examinations And Diagnoses
+Excretory-secretory products
+Exhaled breath condensate (EBC)
+Experimental autoimmune encephalomyelitis
+Expression
+Expression profiling
+Extra-virgin olive oil
+Extracellular signal-regulated kinase
+F2-isoprostanes
+F3H
+F5
+FA
+FAA, fatty acid amide
+FAAH
+FAB, French-American-British classification
+FAD7/8/3, FATTY ACID DESATURASE 7/8/3
+FADS
+FAK
+FALDH
+FAME
+FAME, fatty acid methyl ester
+FAO, fatty acid oxidation
+FBS
+FC
+FCS
+FDA
+FEV1 forced expiratory volume in 1 s
+FF
+FFA
+FFP
+FLAP
+FLAP inhibitor
+FLAP protein
+FLC-QqLIT-MS, fast liquid chromatography-quadrupole linear ion-trap mass
+FOX2 assay
+FPR1
+FPR2/ALX
+FPRL1
+FRAP assay
+FRET
+FTIR
+FTIR Spectroscopy
+FW
+FX1, factor XI
+FXRA
+FYF, FOREVER YOUNG FLOWER
+Factor analysis
+Family Planning
+Farsetia hamiltonii
+Fat
+Fatty Acid Desaturase
+Fatty Acid Oxidation
+Fatty acid
+Fatty acid composition
+Fatty acid hydroperoxide
+Fatty acid metabolism
+Fatty acid oxygenases
+Fatty acids
+Fatty atacids
+Fatty liver
+FeCl(3)
+FeNO fractional exhaled NO
+Femoral defect
+Ferrithiocyanate
+Ferroptosis
+Ferrous oxidation-xylenol orange (FOX) assay
+Ficus platyphylla
+Fish oils
+Fishy odour
+Flavocoxid
+Flavonoid
+Flavonoids
+Flax
+Flax oil
+Flour
+Flowers
+Flufenamic acid
+Fluorescence
+Fluorescence dynamics
+Fluorescent proteins
+Foam cell
+Foam cells
+Foam macrophage
+Foeniculum vulgare
+Food Frequency Protocol
+Food allergy
+Food and Drug Administration
+Food-responsive diarrhea
+Forced expiratory maneuvers
+Fracture
+Free radical
+Free radical scavenging
+Free radical-scavenging
+Free radicals
+Free-radical mediated oxygenation
+Fresh-cut
+Fresh-cut lotus root slices
+Friedelin (CID: 91472)
+Frontotemporal dementia
+Fructus Cartaegi
+Fruit ripening
+Fucophlorethol C
+Fumonisin
+Functional expression
+Functional properties
+Fungus
+Furan-3-carboxylic acid ester
+Furostane steroids
+Fusarium
+Fusarium gloeosporioides
+Fusarium oxysporum
+Fusarium verticillioides
+Fusarium wilt
+Fusion enzymes
+G protein coupled receptor
+G protein coupled signaling
+G protein receptor kinase 2
+G protein-coupled receptors
+G-protein-coupled receptors
+GADD34
+GAPDH
+GAPDH, glyceraldehyde 3-phosphate dehydrogenase, Ho-1, heme oxygenase-1
+GC
+GC-MS
+GCMS, gas chromatography-mass spectrometry
+GCs
+GDNF
+GERD
+GFAP = glial fibrillary acidic protein
+GI
+GLA
+GLUT1
+GM-CSF
+GM-MS
+GMDR
+GPAT2, glycerol-3-phosphate acyltransferase 2, LOX, lipoxygenase
+GPCR
+GPI, glycoprotein 1
+GPR120
+GPX, glutathione peroxidase
+GR
+GRB2-associated binding protein 2
+GRP78
+GRX, glutaredoxin
+GSDMB
+GSH
+GSH, glutathione
+GSIS
+GSK-3beta
+GSK2190915
+GSSG
+GUS activity
+GUV
+GUVs
+Gab2
+Gaeumannomyces graminis
+Galactolipid
+Galectin-1
+Galla rhois
+Gallic acid
+Gamma irradiation
+Gamma-hexalactone (PubChem CID: 12756)
+Gap junction proteins
+Gas chromatography
+Gastric ulcer
+Gastrointestinal disorders
+Gastrointestinal toxicity
+Gastroprotection
+Gastroprotective mechanisms
+Gaultheria procumbens
+Gel-based proteomics
+Gene
+Gene Expression
+Gene Polymorphism
+Gene expression
+Gene expression analysis
+Gene polymorphism
+Gene polymorphisms
+Gene variants
+General area
+Genetic association analysis
+Genetic variants
+Genetically modified crops
+Genetics
+Genistein
+Genotoxicity
+Genotypes
+Geoffroea decorticans
+Germination
+Ginger
+Ginsenoside
+Global cerebral ischemia
+Global climate change
+Glucocorticoid
+Glucocorticoid receptor
+Glucocorticoids
+Glucosinolates
+Glutamate
+Glutamate transporters, Ischemia
+Glutathione
+Glutathione transferase
+Glutathione-S-transferase
+Glycine max
+Glycogen
+Glycolipids
+Glycosylation
+Goblet cell metaplasia
+Goblet cells
+Golgi
+Golgi apparatus
+Gpx4
+Gq-GPCR
+Gracilaria dura
+Gracilaria opuntia
+Granulation
+Granulocytes
+Green Leaf Volatiles
+Green leaf volatiles
+Green peas
+Green tide
+Green volatiles
+Green-lipped mussel
+Growth
+Guava
+Guinea pigs
+H&E
+H(2)O(2)
+H(P)ODE
+H(p)ETE, hydroperoxyeicosatetraenoic acid
+H2O2 accumulation
+H2S releasing agents
+H89 (PubChem CID: 449241)
+HAB
+HAE/HSL2, HAESA/HAESA-LIKE 2
+HAc
+HB
+HB-EGF
+HBIG
+HBSS
+HBV
+HBV therapy
+HBcAg
+HBeAg
+HBsAg
+HBx
+HBx protein
+HCC
+HCV
+HClO
+HDAC1
+HDL
+HDL-C
+HDL-c
+HDoHE
+HEETAs
+HEK293
+HEK293 cells
+HEPE
+HETE
+HETE, hydroxyeicosatetraenoic acid
+HETEs
+HETrE
+HFD
+HHDP
+HIF prolyl hydroxylase
+HIV
+HMGB1
+HO-1
+HOBr
+HOBt
+HOCl
+HODE
+HOTrE
+HPETE
+HPETEs
+HPL
+HPLC
+HPLC, high performance liquid chromatographic
+HPLC-DAD-MS
+HPLC-DAD-MS(n)
+HPLC-Q-TOF/MS
+HPODE
+HPOT, hydroperoxyoctadecatrienoic acid
+HPR
+HPTLC
+HPTLC-DPPH
+HQS
+HRP
+HS-SPME
+HSA
+HSC
+HSP
+HSP20-like chaperone
+HSV
+HTC processing
+HXA(3)/B(3)
+HYAL
+HaCaT cells
+Hair samples
+Hairy root culture
+Hank's Balanced Salt Solution
+Harlequin ichthyosis
+Heat treatment
+Heavy metal
+Heck reaction
+Helianthus annuus
+Helichrysum italicum
+Helicoverpa armigera
+Hematoxylin and eosin
+Heme oxygenase-1
+Heme oxygenase-1 (HO-1)
+Hemiketal
+Hemiptera
+Heparin binding-EGF
+Hepatic dysfunction
+Hepatic injury
+Hepatitis B virus
+Hepatocellular carcinoma
+Hepatotoxicity
+Hepoxilin
+Hermissenda crassicornis
+Herpes Simplex Virus
+Heterocyclization
+Heterologous gene expression
+Hexanal
+Hexenal
+High pressure
+High salinity
+High-cholesterol-fed rabbits
+High-density lipoprotein cholesterol
+High-throughput
+High-throughput assay
+Himalayan snowberry
+Hippocampus
+Histoculture
+Histone PTMs
+Histopathology
+Honeybee venom
+Hormesis
+Hormone
+Horse
+Host resistance
+Host response
+HpETE
+HpODE
+Hsp70
+Huanglongbing
+Human
+Human 15-lipoxygenase-1
+Human 15-lipoxygenase-2
+Human 5-lipoxygenase
+Human cytomegalovirus
+Human health
+Human plasma
+Human platelets
+Human whole blood assay
+Huntington's disease
+Hydratase
+Hydrogen abstraction
+Hydrogen peroxide
+Hydrogen sulfide
+Hydrogen tunneling
+Hydroperoxide Lyase
+Hydroperoxide lyase
+Hydroperoxy fatty acid product
+Hydrophilic interaction liquid chromatography
+Hydrophobic
+Hydroxy fatty acid
+Hydroxyeicosatetraenoic acid
+Hydroxyl radical
+Hydroxythiazoles
+Hyperactivity
+Hyperalgesia
+Hyperglycaemia
+Hypertension
+Hypha
+Hypochlorite
+Hypochlorous acid
+I-DOPA
+I-dihydroxyphenylalanine
+IACUC
+IB
+IBD
+IBU
+IC
+IC50
+IC50 values, structure-activity relationship
+ICAM-1
+ICH = intracerebral hemorrhage
+ICS
+ID
+IEF
+IFN
+IFN-alpha
+IFNAR1
+IFNG
+IFNgamma
+IHC
+IKKbeta, IkappB kinase beta
+IL
+IL-1 receptor antagonist
+IL-10
+IL-13
+IL-1RA
+IL-1beta
+IL-6
+IL-8/CXCL8
+IL-R
+IL6
+IM, inflorescence meristem
+IND
+INF-gamma
+IPLA(2)
+IPTG
+IPTG, Isopropyl-beta-D-thiogalactopyranosid
+IQ
+IR
+IRE1alpha
+IS
+ISB
+ISL
+Ichthyosis
+IgA
+IgE
+IgG
+IkappaB
+Ilex paraguariensis
+Imaging
+Imidazo[2,1-b]thiazole
+Immune system
+Immuno-spin trapping
+Immunocytochemistry
+Immunoglobulin A
+Immunoglobulin E
+Immunohistochemistry
+Immunology
+Immunomodulation
+Immunomodulatory
+Immunoneutralization
+In vivo
+In vivo model
+Inactivation
+Incompatible interaction
+Indirubin-3'-monoxime
+Indo
+Indole
+Indoles
+Indomethacin
+Induced plant resistance
+Induced resistance
+Inducible nitric oxide synthase
+Infection
+Inflammation
+Inflammatory
+Inflammatory bowel disease
+Inflammatory marker enzymes
+Inflammatory markers
+Inflammatory mediators
+Inflammatory response
+Influenza
+Influenza virus infection
+Infochemicals
+Infrared treatment
+Inhaled Corticosteroid
+Inhibition
+Inhibitor
+Inhibitors
+Inhibitors of eicosanoid biosynthesis
+Injury-induced immune response
+Inoscavin A
+Insect
+Insect cell lines
+Institutional Animal Care and Use Committee
+Insulin
+Insulin resistance
+Interaction factor
+Interaction with CT DNA
+Interaction with DNA
+Interaction with albumins
+Interaction with calf-thymus DNA
+Interaction with serum albumins
+Interactions
+Interfacial activation
+Interleukin
+Interleukin-10
+Interleukin-1beta
+Interleukin-6
+Interleukins
+Intertidal distribution
+Intestinal inflammation
+Intraocular pressure
+Intravenous HDL
+Inula crithmoides
+Ionomic
+Ions
+Ir
+Iridoids
+Ischemia/reperfusion
+Ischemic heart disease
+Ischemic incults
+Ischemic stroke
+Isobolographic analysis
+Isoenzymes
+Isoforms
+Isoliquiritigenin derivatives
+Isoprene
+Isopropyl-beta-d-thiogalactopyranoside
+Isoprostane
+Isorhamnetin (CID: 5281654)
+Isoxazole
+Itch
+Ivy
+JA
+JA, jasmonic acid
+JAK
+JAZ
+JAZ, JASMONATE-ZIM DOMAIN
+JAs
+JK152
+JMT
+JNK
+JNK pathway
+Janus kinase
+Jasminum lanceolarium Roxb
+Jasmonate
+Jasmonate acid
+Jasmonates
+Jasmonic acid
+Jojoba
+K+ channels
+KNAT1, KNOTTED-LIKE FROM ARABIDOPSIS THALIANA 1
+KODE
+KOME
+KSF
+Kaempferol (CID: 5280863)
+Kaempferol 3,7-dirhamnoside (CID 5486199)
+Kaempferol-3,7-di-O-alpha -L -rhamnopyranoside (CID 12305419)
+Kappaphycus alvarezii
+Keap1
+Keap1, Kelch like ECH-associated protein 1 MCP-1, monocyte chemoattractant
+Kentucky bluegrass
+Ketol linolenic acid
+Key words Induced resistance
+Kidney
+Kidney Failure, Acute
+Kidney function
+Kidney pathology
+Kinetic isotope effect
+Kinetics model
+Kinetin
+Knockout mice
+Korean native mushroom
+Kozak sequence
+Kunitz trypsin inhibitor
+Kv1.5
+Kv2.1
+L ymnaea stagnalis
+L-12/15- lipoxygenase
+L-buthionine-(S,R)-sulfoximine
+LA
+LA linoleic acid
+LAA
+LABA
+LAMA
+LAT
+LB
+LC
+LC-MS
+LC-MS/MRM
+LC-MS/MS
+LC/MS/MS
+LCPUFA
+LDL
+LDL oxidation
+LDL-c
+LDL/Oxidation/antioxidants
+LGCI
+LIM
+LO
+LOD
+LOQ
+LOX
+LOX inhibitory activity
+LOX lipoxygenase
+LOX products
+LOX-1
+LOX-1 null
+LOX3
+LOX3/4, LIPOXYGENASE 3/4
+LOX5
+LOXs
+LOXs, lipoxygenases
+LOs
+LPC, lysophosphatidylcholine
+LPE, lysophosphatidylethanolamine
+LPS
+LR
+LRR, leucine-rich repeat
+LT
+LT leukotriene
+LTA4 hydrolase
+LTA4,
+LTB(4)
+LTB(4)-d4
+LTB(5)
+LTB-4
+LTB4
+LTB4, 5(S),12(R)-dihydroxy-6,8,10,14-(Z,E,E,Z)-eicosatetraenoic acid
+LTC(4)
+LTC(4) synthase
+LTC4 synthase
+LTC4,
+LTP3, lipid transfer protein 3
+LTR
+LTRA
+LTs
+LUV
+LUVs
+LX
+LX lipoxin
+LXA(4)
+LXA(4)/B(4)
+LXA4
+LXs
+LY294002
+Laboratory Examinations And Diagnoses
+Laboratory Procedures
+Lactone biosynthesis
+Lamellar ichthyosis
+Lamiaceae
+Langmuir-Blodgett
+Larmichthys crocea
+Larvae
+Lavandula x intermedia
+Leaf
+Leaf age
+Learning and memory
+Lemna minor
+Lentinan
+Lepidoptera
+Leptadenia reticulate
+Leukocyte Migration
+Leukocytes
+Leukostasis
+Leukotrien agonist
+Leukotriene
+Leukotriene A(4)
+Leukotriene A(4) hydrolase
+Leukotriene B(4)
+Leukotriene B(4) (PubChem CID: 5280492)
+Leukotriene B(4) (PubMed CID: 5280492)
+Leukotriene B(4)-d4 (PubChem CID: 53394387)
+Leukotriene B4 receptor 1
+Leukotriene C(4)
+Leukotriene C(4) (PubChem CID: 5280493)
+Leukotriene C(4) (PubMed CID: 5283121)
+Leukotriene C4
+Leukotriene E(4) (PubChem CID: 5280879)
+Leukotriene inhibitors
+Leukotriene receptor
+Leukotrienes
+Leukotrienes (LTs)
+Leukotrienes synthesis
+Leukotrienes-related diseases
+Licofelone
+Life spectrum
+Lignanoids
+Lignans
+Linaceae
+Linoleic acid
+Linoleic acid (LA)
+Linolenic acid
+Linseed oil
+Linum usitatissimum
+Lipase
+Lipid
+Lipid Oxidation
+Lipid Peroxidation
+Lipid Signaling
+Lipid Structure
+Lipid analysis
+Lipid biochemistry
+Lipid bodies
+Lipid droplets
+Lipid hydroperoxides
+Lipid mediator
+Lipid mediators
+Lipid metabolism
+Lipid modification
+Lipid oxidation
+Lipid peroxidation
+Lipid peroxidation inhibition
+Lipidomic analysis
+Lipidomics
+Lipids
+Lipids/Oxidation
+Lipolysis
+Lipooxygenase
+Lipoperoxidation
+Lipophilicity
+Lipopolysaccharide
+Lipopolysaccharide (LPS)-induced osteoclast formation
+Lipopolysaccharide(PubChem CID:0111:B4)
+Lipopolysaccharides
+Lipoproteins
+Lipotoxicity
+Lipoxidase
+Lipoxin
+Lipoxin A(4)
+Lipoxin A4
+Lipoxins
+Lipoxins, resolvins, neuroprotectins
+Lipoxygenase
+Lipoxygenase (LOX)
+Lipoxygenase Pathway
+Lipoxygenase activity
+Lipoxygenase genes
+Lipoxygenase inhibition
+Lipoxygenase inhibitor
+Lipoxygenase inhibitors
+Lipoxygenase isozymes
+Lipoxygenase knockout
+Lipoxygenase pathway
+Lipoxygenase products
+Lipoxygenase-hydroperoxide lyase pathway
+Lipoxygenase-inhibitors
+Lipoxygenases
+Lipoxygenese pathway
+Lipoxygensase
+Lippia nodiflora
+Liquid chromatography-mass spectrometry
+Liver
+Liver cirrhosis
+Liver function
+Local lesion
+Long acting beta2-agonist
+Long-chain acyl-CoA synthetase 4
+Long-chain polyunsaturated fatty acids
+Long-term potentiation
+Longan (Dimocarpus longan Lour.)
+Loquat fruit
+Low density lipoproteins
+Low-density lipoprotein cholesterol
+Lowering
+Lp-PLA2
+Luc
+Lung Physiology
+Lupinus angustifolius L.
+LxA(4)
+LxA(4)-d5
+LxB(4)
+Lycopersicon esculentum
+Lyme disease
+Lyn
+Lyprinol(R)
+Lys49-PLA2
+Lyso-PAF C16:0 (PubChem CID: 3983)
+M
+M2
+M2/M1 macrophages
+MALDI-MS
+MALDI-TOF
+MALDI-TOF MS
+MALDI-TOF/TOF
+MAMP
+MAO
+MAPK
+MAPK14
+MAPK3/6, MAP Kinase 3/6
+MAPKs
+MAPKs/NF-kappaB
+MBP
+MBP = myelin basic protein
+MBTH
+MCAO
+MCI
+MCP-1
+MD
+MDA
+MDI
+MEG3
+MG, monoacylglycerol
+MH Quant
+MIC
+MIRNA, microRNA
+MK-0633
+MK-886
+MK886
+MKK4/5, MAP Kinase Kinase 4/5
+MKP1
+MLKL
+MLVs
+MMF
+MMP
+MMP-9
+MMSE
+MOMP
+MPO
+MPO, myeloperoxidase
+MPTP
+MPhi
+MRI
+MRM
+MRM, multiple reactions monitoring
+MRP2
+MS
+MS(E)
+MSC
+MTA1
+MTT
+MUC
+MUFA
+MUFA, monounsaturated fatty acid
+MW
+MYC2
+Maackiain
+Mac-1
+Macrophage
+Macrophages
+Macrophages/monocytes
+Madin-Darby canine kidney cells
+Magnaporthe oryzae
+Magnetic resonance imaging
+Magnetopriming
+Maize (Zea mays L.) roots
+Malaria
+Malassezia pachydermatis
+Malaxation
+Malaysia
+Malondialdehyde
+Malus domestica
+Manduca sexta
+Manganese
+Mangifera indica
+Maresin
+Marine biotoxins
+Marine oil
+Mass Hunter Quantitative
+Mass Spectrometry (MS)
+Mass spectrometry
+Mass spectrometry (MS)
+Mass spectroscopy
+Mast cell
+Mast cells
+Mastitis
+Maturation-inducing steroid
+Max. Adj. R(2)
+MeFor
+MeJA
+MeOH
+Mechanism
+Mediators of inflammation
+Medicinal plants
+Mefenamic acid
+Meibocytes
+Melittin
+Meloidogyne
+Membrane
+Membrane lipids metabolism
+Membrane model systems
+Membrane permeability
+Membrane peroxidation
+Membrane transduction
+Membrane-binding mode
+Memory
+Memory and learning
+Memory assessment
+Menstruation
+Menstruation Disorders
+MerTK
+Mercury
+Mesenchymal stem cells
+MetS
+Meta-analysis
+Metabolic syndrome
+Metabolism
+Metabolites
+Metabololipidomics
+Metabolomic analysis
+Metabolomics
+Metal chelation
+Metalloenzyme
+Metalloproteins
+Metasequoia glyptostroboides
+Methanol
+Methanolic extract
+Methyl gallate
+Methyl jasmonate
+Methyl jasmonate (MeJA)
+Methylglyoxal
+Microarray
+Microglia
+Microglial activation
+Microsomal prostaglandin E(2) synthase
+Microsomal prostaglandin E(2) synthase 1
+Microsomal prostaglandin E(2) synthase-1
+Microsomal prostaglandin E2 synthase-1
+Microwave irradiation
+Migration
+Mild cognitive impairment
+Milky sap
+Minerals
+Misfolding
+Mitigation
+Mitochondria
+Mitogen activated protein kinase
+Mitogen-Activated Protein Kinase
+Mitogen-activated protein kinase
+Mitogen-activated protein kinase14
+Mitogen-activated protein kinases
+Mitogenesis
+Mitophagy
+Model
+Molecular cloning
+Molecular docking
+Molecular dynamics simulations
+Molecular evolution
+Molecular markers of flavors
+Molecular modeling
+Molecular modifications
+Molecular species
+Molegro Virtual Docker
+Mollusc
+Monocot
+Monocyte
+Monocyte adhesion
+Monocytes
+Monokaryon
+Monolignol polymerization
+Monooxygenase
+Monounsaturated fatty acid
+Monovarietal extra virgin olive oil
+Montelukast
+Montelukast (PubChem CID: 5281040)
+Mood
+Morpological transition
+Morus alba
+Motional flexibility
+Mouse
+Mouse models
+Multi component chemistry
+Multicentered open shell
+Multicomponent reaction
+Multiple Sclerosis
+Multiple sclerosis
+Multitarget drugs
+Mung bean
+Munronia pinnata
+Muntingia calabura
+Muntingiaceae
+Murine
+Muscarinic acetylcholine receptor 2
+Muscle
+Muscle atrophy
+Mussel
+Mutagenesis
+Mutation analysis
+Mutations
+Mycotoxin
+Myeloperoxidase
+Myocardial infarction
+Myofibroblast
+Myotoxin II
+Mytilus
+Myxococcus xanthus
+N,N-dimethyl-hexadecylamine
+N-(6-aminohexyl)-5-chloro-1-naphthalenesulphonamide
+N-Linoleoylethanolamine
+N-Oleylethanolamine
+N-acetyl-cysteine
+N-acyl dopamine
+N-acylethanolamines
+N-arachidonoyl dopamine
+N-arachidonoyl gamma-aminobutyric acid
+N-arachidonoyl glycine
+N-arachidonoyl serine
+N-arachidonoyl serotonin
+N-arachidonoyl taurine
+N-hydroxybenzotriazole
+N-methyl-D-aspartate
+N-methyl-l-arginine acetate salt
+N-oleoyl dopamine
+N-palmitoyl dopamine
+N-t-Boc-Phe-Leu-Phe-Leu-Phe
+N-terminal domain
+N-{(2S,4R)-4-(biphenyl-2-ylmethyl-isobutyl-amino)-1-[2-(2,4-difluorobenzoyl)-benz
+NA-5HT
+NA-DA
+NA-GABA
+NA-Gly
+NA-Ser
+NA-Tau
+NAC
+NAD(P)H, nicotinamide adenine dinucleotide (phosphate), reduced form
+NADPH oxidase
+NADPH oxidase-1
+NADPH oxidases
+NAFLD
+NASA Center KSC
+NASA Discipline Cell Biology
+NASA Discipline Life Support Systems
+NASA Discipline Number 61-20
+NASA Discipline Regulatory Physiology
+NASA Program Advanced Life Support
+NASH
+NBT
+NC
+NCKU
+NDGA
+NEFA
+NEV, NEVERSHED
+NF-kB
+NF-kappaB
+NF-kappaB = nuclear factor kappaB
+NF-kappaB, nuclear factor kappa-light chain-enhancer of activated B cells
+NFAT
+NFATc1
+NFATc3
+NFkappaB
+NGF
+NHANES
+NHP
+NK
+NK2 homeobox 1
+NLR
+NLRP3
+NMHC IIA mRNA
+NMR
+NO
+NO donors
+NO synthase
+NO, nitric oxide
+NO-DA
+NO-NSAIDs
+NOD-like receptor
+NOS
+NOS NO synthase
+NOS, nitric oxide synthase
+NOSE
+NOX
+NOX, NADPH oxidase
+NP-DA
+NPD
+NPD1
+NPI
+NPR1, NONEXPRESSOR OF PR GENES 1
+NS
+NSAID
+NSAID (nonsteroidal inflammatory drug)
+NSAID-exacerbated respiratory disease
+NSAID-hypersensitivity
+NSAIDs
+NSF
+NSP
+NT, nitrotyrosine
+NaBH(4)
+NaClO
+NahG
+Naja naja venom
+Nanoliposomes
+Nanoparticle
+Nasal polyposis
+National Cheng Kung University
+National Health and Nutrition Examination Survey
+Natural mangrove hybrid
+NecroX-5
+Necrosis
+Nephrin
+Nephronophthisis
+Neural development
+Neurodegeneration
+Neurodegenerative disease
+Neuroinflammation
+Neuron-astrocyte co-culture
+Neuronal NOS
+Neuronal signaling
+Neuropathic pain
+Neuropathy
+Neuropeptide
+Neuroprostanes
+Neuroprotectin 1 (NPD1)
+Neuroprotection
+Neuroprotective effects
+Neutrophil
+Neutrophils
+Nickel(II) complexes
+Nicotiana benthamiana
+Nile tilapia
+Nitration
+Nitric oxide
+Nitric oxide production inhibition
+Nitric oxide synthase
+Nitric-oxide
+Nitric-oxide synthase endothelial
+Nitrous acid
+Njavara rice bran oil
+Nkx2.1
+Nociception
+Nociceptive-pain
+Nociceptor
+Non steroidal anti-inflammatory drugs
+Non-NASA Center
+Non-alcoholic necrosis steatohepatitis
+Non-programmatic
+Nonredox 5-LO inhibitor
+Nonsteroidal anti-inflammatory drugs
+Nonvascular plant
+Nonylphenol
+Nootropics
+Nordihydroguaiaretic Acid
+Nordihydroguaiaretic acid
+Novel polyketide
+Nrf2
+Nrf2, nuclear factor erythroid 2-related factor 2
+NtMYC2a gene
+Nuclear Factor-KappaB
+Nuclear factor (erythroid-derived 2)-like 2 (Nrf2)
+Nuclear factor kappa B
+Nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappaB)
+Nucleofection
+Nutraceuticals
+Nutrition
+Nutritional properties
+O(2)(*-)
+O2*-, superoxide anion radical
+OB
+OC
+OE
+OK
+ONOO-, peroxynitrite
+OPLS-DA, orthogonal PLS-DA
+OPN
+OPR3
+OR
+ORAC
+ORFs
+OSCs
+OVA
+Obesity
+Obesogenic
+Object recognition test
+Octadecanoid pathway
+Octadecanoids
+Octanal
+Octylphenol
+Odonthalia corymbifera
+Olea europaea
+Olea europaea L
+Olea europaea L.
+Olea europea
+Oleae
+Olean-18(19)-en-3beta-yl (3, 6-dimethyl-3, 6-dienoate)
+Oligodeoxynucleotide
+Olive
+Olmsted syndrome
+Omega 3 PUFAs
+Omega 3 fatty acid
+Omega-3
+Omega-3 (n-3)
+Omega-3 PUFA
+Omega-3 fatty acid
+Omega-3 fatty acids
+Omega-3 polyunsaturated fatty acid
+Omega-3 polyunsaturated fatty acids
+Omega-6
+Omega-6 (n-6)
+Omega-6 and omega-3 fatty acids
+On-farm biosensor
+Ophiostoma
+Opiate receptor
+Optimal defense theory
+Optokinetic reflex
+Optomotor
+Oral Contraceptives--administraction and dosage
+Oral Contraceptives--side effects
+Oral bioavailability
+Oriental Melon
+Orthodontic tooth movement
+Osmoregulation
+Osteoarthritis
+Osteoporosis
+Otitis
+Ovary
+OxLDL
+Oxazine
+Oxidants
+Oxidants/antioxidants imbalance
+Oxidation
+Oxidation process
+Oxidation-Reduction
+Oxidative burst
+Oxidative enzymes
+Oxidative metabolites
+Oxidative stress
+Oxidized LDL
+Oxidized lipids
+Oxidized phospholipids
+Oxo-lipids
+Oxoeicosanoid receptor OxeR1
+Oxygen sensor
+Oxygenases
+Oxygenated metabolite
+Oxygenation mechanism
+Oxylipids
+Oxylipin
+Oxylipins
+Oxysterols
+P-Selectin
+P-cadherin
+P2X7 receptor
+P2X7R
+P450
+P450 monooxygenase
+PAF
+PAF C16:0-d4 (PubChem CID: 53394395)
+PAF C18:0 (PubChem CID: 2733535)
+PAF receptor
+PAL
+PAPC
+PBMC
+PBS
+PBS = phosphate-buffered saline
+PBS plus 1mg/ml glucose
+PBS plus 1mg/ml glucose plus 1mM CaCl(2)
+PC
+PC, phosphatidylcholine
+PC-NSAIDs
+PCA
+PCA, principal components analysis
+PCR-select
+PD
+PD protectin
+PD1
+PDE4D
+PDI
+PDI, protein disulphide isomerase
+PDx
+PE
+PE, phosphatidylethanolamine
+PEDF
+PEF peak expiratory flow
+PEG
+PERK
+PG
+PG , POLYGALATURONASE
+PG buffer
+PGAM5
+PGC buffer
+PGD(2)
+PGE
+PGE receptor 1, subtype EP1
+PGE(2)
+PGE(2) (PubChem CID: 5280360)
+PGE(3)
+PGE-2
+PGE2
+PGE2, prostaglandin E2
+PGF1alpha, prostaglandin 1alpha
+PGF2alpha
+PGF2alpha, prostaglandin F2alpha
+PGH2, prostaglandin H2
+PGHS
+PGIS
+PGPR
+PGS
+PGT
+PGs
+PH
+PHKG2
+PHYTOALEXIN-DEFICIENT4
+PI
+PI-PLC2
+PI3K
+PI3K/Akt
+PINK1
+PKC
+PKCdelta
+PKR-related ER kinase
+PL
+PLA(2)
+PLA2
+PLAT
+PLAT domain
+PLCgamma
+PLGF
+PLS
+PLS-DA
+PLS-DA, projection to latent structures-discriminant analysis
+PM
+PMA
+PMF
+PMN
+PMNL
+POD
+POEA, palmitoleoyl ethanolamide
+PP
+PP1
+PP2B
+PPAR
+PPAR gamma
+PPAR response element
+PPAR-gamma
+PPARG
+PPARalpha
+PPARalpha/beta/gamma
+PPARbeta/delta
+PPARgamma
+PPARgamma = proliferator-activated receptor-gamma
+PPARs
+PPIs
+PPRE
+PR
+PR1, Pathogenesis-related Protein 1
+PRE
+PRE1
+PRE2
+PRE3
+PRE4
+PRR
+PRRs
+PS
+PSP
+PTEN-induced putative kinase 1
+PTFE
+PTGER1
+PTPC
+PUFA
+PUFA metabolite
+PUFA ratio
+PUFA, polyunsaturated fatty acid
+PUFAs
+Paeonia lactiflora
+Pain
+Pain threshold
+Panax ginseng
+Paphia malabarica
+Parastrephia lucida
+Parkinson's disease
+Parkinson's disease model
+Partially hydrogenated vegetable fat
+Particulate matter
+Passive systemic anaphylaxis
+Pathogen
+Pathogen resistance
+Pattern recognition receptors
+Pearl millet
+Pectin methylesterase
+Pectobacterium atrosepticum
+Pelingo apple
+Penaeus monodon
+Penetration enhancer
+Penicillium digitatum
+Penta-O-galloyl-beta-d-glucoside
+Peptidomics
+Peptidomimetics
+Perdeuteration
+Perinuclear
+Periodontitis
+Peripheral nerves
+Peritonitis
+Permeability
+Perna
+Peroxidase
+Peroxidation
+Peroxide formation
+Peroxiredoxin
+Peroxisome proliferator-activaed receptor gamma
+Peroxisome-proliferator-activated-receptor
+Peroxynitrite
+Perro
+Persea americana Mill
+Pest resistance
+PhE, phenylephrine, Rac1, Ras-related C3 botulinum toxin substrate 1
+Phagosomes
+Pharmacokinetic properties
+Pharmacokinetics
+Pharmacophore
+Phellinus baumii
+Phenolic metabolism
+Phenolic oxidation
+Phenolics
+Phenyl ammonia lyase
+Phenylhydrazides
+Phenylpropanoid pathway
+Pheophytin a
+Phloem defenses
+Phlorotannin
+Phoenix dactylifera
+Phosphatidylcholine hydroperoxide
+Phosphatidylcholine micelles
+Phosphatidylcholines
+Phosphatidylinositol
+Phosphatidylinositol 3-kinase
+Phosphodiesterase IV
+Phospholipase
+Phospholipase A(2)
+Phospholipase A2
+Phospholipase A2 (PLA2)
+Phospholipase C
+Phospholipase Cgamma1
+Phospholipase D (PLD)
+Phospholipase activity
+Phospholipases A2, cytosolic
+Phospholipid analysis
+Phospholipid remodeling
+Phospholipids
+Photosynthesis-related proteins
+Phylogenetic
+Physiology
+Phytophthora
+Phytoremediation
+Pichia expression
+Pichia pastoris
+Pigs
+Piroxicam
+Pistacia integerrima J.L. Stewart ex Brandis
+Pisum sativum
+Pitting
+Placenta
+Placenta growth factor
+Plant Biochemistry
+Plant age
+Plant defense
+Plant extracts
+Plant growth regulator
+Plant lipoxygenases
+Plant proteomics
+Plant response
+Plant sterols
+Plant-insect interactions
+Plaque
+Plasma membrane stability
+Plasma triglycerides
+Platelet
+Platelet-activating factor (PubChem CID: 108156)
+Platelet-derived Growth Factor
+Plectranthus zeylanicus
+Plethysmography
+Pleurotus
+Pleurotus sapidus
+Polyamine
+Polyamines
+Polycystic kidney disease
+Polycystin-1
+Polygonatum verticillatum
+Polymorphism
+Polymorphisms
+Polymorphysm
+Polyphenol
+Polyphenolic compounds
+Polyphenols treatment
+Polysaccharide-based stationary phases
+Polyunsaturated Fatty Acid (PUFA)
+Polyunsaturated fatty acid
+Polyunsaturated fatty acids
+Polyunsaturated fatty acids (PUFA)
+Polyunsaturated fatty acids (PUFAs)
+Pomegranate seed oil
+Populus x canescens
+Portal hypertension
+Post-transcriptional regulation
+Postharvest
+Posttraumatic stress disorder
+Potentilla recta L. (Rosaceae)
+Ppo
+Prebiotics
+Primary muscle cells
+Pro-inflammatory cytokine
+Pro-inflammatory cytokines
+Pro-oxidant
+Pro-resolution
+Pro-resolving mediator
+Pro-resolving mediators
+Proconvulsant
+Profens
+Progesterone
+Prognostic risk
+Prohexadione-calcium
+Proinflammatory
+Proinflammatory cytokines
+Prokaryotic expression
+Proliferation
+Proline-glycine-proline
+Prolonged pregnancy
+Promoter
+Propolis
+Propyl gallate
+Prosopis
+Prosopis alba
+Prostaglandin
+Prostaglandin D2
+Prostaglandin E(2)
+Prostaglandin E(2) (PubChem CID: 5280360)
+Prostaglandin E2
+Prostaglandin g/h sythase1
+Prostaglandin glyceryl ester
+Prostaglandin-F2alpha
+Prostaglandins
+Prostaglandins--administraction and dosage
+Prostaglandins--side effects
+Prostamide
+Prostanoid
+Prostanoids
+Protease
+Protectin
+Protectins
+Protein
+Protein Structure
+Protein X-ray crystallography
+Protein engineering
+Protein environment
+Protein extraction
+Protein phosphorylation
+Protein purification
+Protein structure
+Protein-protein interactions
+Proteinase activity
+Proteinase inhibitors
+Proteinase-activated receptor 2
+Proteins
+Proteinuria
+Proteomics
+Proton-transfer-reaction
+Proximal tubule
+Prunus persica
+Prx, peroxiredoxin
+Pseudomonas aeruginosa
+Pseudomonas fluorescens
+Pseudomonas simiae
+Pseudomonas syringae
+Psi-factor producing oxygenase
+Psidium guajava
+Psoriasis-like dermatitis
+Pterocarpus erinaceus
+Pulmonary arterial hypertension
+Pulmonary artery endothelial cell
+Pulmonary edema
+Pulsed electric field processing
+Pulsed electric fields
+Pulsed magnetic field
+Pure neuron culture
+Purification
+Puromycin Aminonucleoside
+Purple basil
+Py-PE
+Pyrazole
+Pyrazole derivatives
+Pyrazoles
+Pyrazolopyrimidines
+Pyrethrins
+Pyridine
+Pyrimidines
+Pyropia
+Pyruvate
+Q
+QM/MM calculations
+QTL
+Qishenyiqi
+Quality
+Quantum mechanics/molecular mechanics
+Quercetin
+Quinoline-2-carboxamides
+Quinones
+R(2) value
+R(g)
+R-square value
+R2R3-MYB transcription factor
+RA
+RANKL-induced osteoclast formation
+RAPD
+RAR
+RAW 264.7 macrophage cells
+RAW264.7
+RBANS
+RBC
+RBL-2H3 cells
+RCT
+RF
+RIG-I like receptor
+RIPK1
+RLR
+RNA
+RNA interference
+RNAi
+RNS
+RNS, reactive nitrogen species
+ROI
+ROS
+ROS formation
+ROS scavenging enzymes
+ROS signaling
+ROS signaling in Hydra
+ROS, reactive nitrogen species
+ROS, reactive oxygen species
+RR
+RRs
+RS-NO
+RSM
+RSM, FC and CT
+RT-qPCR
+RVD1
+RVE1
+RXR
+Radical scavenger
+Radix Salviae Miltiorrhizae
+Ralstonia solanacearum
+Raman spectroscopy
+Ranunculaceae
+Ranunculus muricatus
+Rat
+Rat lung
+Rboh
+Reaction mechanism
+Reactive electrophile species
+Reactive hyperemia
+Reactive oxygen species
+Real-time PCR
+Receptor
+Red flesh apple
+Redox Regulation
+Redox status
+Reduction
+Remote hind limb preconditioning
+Renin-angiotensin system
+Renin-angiotensin system blockers
+Reproduction
+Reproductive organs
+Resistance
+Resistance inducer
+Resolution
+Resolution of inflammation
+Resolvin
+Resolvin D1
+Resolving
+Resolvins
+Resolvins D series
+Resorcinol
+Resorcyclic acid lactone
+Respiratory Measurement
+Respiratory syncytial virus
+Resv
+Resveratrol
+Retinal inflammation
+Retinal neovascularization
+Retinal vascular leakage
+Retinopathy
+Reversed-phase
+Review
+Rhamnaceae
+Rheumatoid arthritis
+Rhizophora annamalayana
+Rhizophora mucronata
+Rhizophora mucronata Lam.
+Rhizophoraceae
+Rhizospheric colonization
+Rho-kinase
+Rhodnius heme-binding protein
+Rhododendron arboreum
+Rhythmic phasic contractions
+Rice
+Rice grain
+Rice leafroller
+Risk factor
+Risk factors
+Robinin
+Root VOC profiling
+Root development
+Root growth inhibition
+Root swelling
+Rotenone
+Rudbeckia hirta
+Ruta graveolens
+Ruthenium (II)-graphene oxide
+Rv
+Rv resolvin
+RvD1
+S-nitrosothiols
+S/N
+S1P
+SA
+SABA
+SAM pointed domain-containing Ets transcription factor
+SAO
+SAR
+SAR study
+SAXS
+SB
+SBOCFWSPOCJDHY-NXTVNIMXSA-N
+SC
+SC50
+SCD1, stearoyl CoA desaturase 1
+SD
+SDA
+SDS-PAGE
+SEM
+SERK1, SOMATIC EMBRYO RECEPTOR-LIKE KIASE 1
+SFA
+SFM
+SG13S114
+SHH signaling
+SI
+SIFT-MS
+SIGLEC10
+SIRS
+SKI3301
+SLB
+SLM
+SLO
+SM, sphingomyelin
+SNP
+SNPs
+SNpc
+SO(2)NH(2) pharmacophores
+SOD
+SP
+SPDEF
+SPE
+SPM
+SPP1
+SREBPs
+SRM
+SSC
+SSH
+SSSOQCOUWWCQSF-MNNDCQRZSA-N
+ST-1853
+ST-1906
+STAT
+STAT1
+STAT3
+STD NMR spectroscopy
+STIR
+SUVs
+SW93-1015
+SaOS2
+Saccharopine reductase
+Sachiho Golden
+Salai/Salai guggul
+Salicylate
+Salicylic acid
+Salidroside
+Salinity
+Saliva
+Salmonella
+Salt stress
+Salt stresses
+Salvia officinalis
+Sambucus nigra
+Samter's triad
+Sargassum thunbergii
+Sargassum wightii
+Sarpo Soft rot
+Saucerneol F
+Schwann Cells
+Scopoletin (CID: 5280460)
+Scorpion peptide LqhIT2
+Scutellaria baicalensis Georgi
+Sea bream
+Seasonal major depression
+Seaweeds
+Secapin
+Second messengers
+Secondary isotope effects
+Secreted phospholipase A(2)
+Secretory phospholipases
+Seed
+Seed deterioration
+Seedling
+Segregation
+Selaginella lepidophylla
+Selaginella martensii Spring
+Selaginella moellendorffii
+Selected Reaction Monitoring
+Selective
+Semi-quantitative RT-PCR
+Senescence
+Sensitization
+Sensory characterization
+Separations
+Sepsis
+Serpin
+Serum
+Sesame lignans
+Sesamol
+Sesquiterpene lactones
+Sex differences
+Sheep
+Shistosoma mansoni
+Short TI Inversion Recovery
+Short acting beta2-agonist
+Short-term cold stress
+Signal Transduction
+Signal transducer and activator of transcription
+Signal transduction
+Signaling
+Signaling crosstalk
+Signaling lipids
+Signaling pathways
+Signs And Symptoms
+Silicon
+Silver(I) complexes
+Silymarin (SLM)
+Simmondsia chinensis
+Single nucleotide polymorphisms (SNPs)
+Single-nucleotide Polymorphism (SNP)
+Single-nucleotide polymorphism
+Singlet oxygen
+Sinus surgery
+Sirtuins
+Site-directed mutagenesis
+Sjogren's syndrome
+Skeletonema marinoi
+Skin
+Slow-binding inhibitor
+Small molecule inhibitors
+Small molecules
+Small-angle X-ray scattering
+Smoke-cured bacon
+Sod2, superoxide dismutase 2
+Solanaceae
+Solanum carolinense
+Solanum lycopersicon
+Solanum lycopersicum
+Solubility
+Soluble epoxide hydrolase
+Sophora tonkinensis
+Soya off flavour
+Soybean
+Soybean lipoxygenase
+Soybean lipoxygenase-1
+Spatial difference
+Spatial working memory
+Specialized pro-resolving mediators
+Specialized proresolving mediators
+Specific lipids
+Specificity
+Spermine
+Spin scavenging
+Spinal dorsal horn
+Spine
+Spirometry
+Splenic remodeling
+Splicing
+Spodoptera exigua
+Spodoptera litura
+Spore
+Spores
+Sputum neutrophilia
+Src family protein kinase
+Src homology 2 domain-containing phosphatase-1
+St. John's wort
+StAR protein
+StLOX
+StPR1
+Stacking efficiency
+Status epilepticus
+Stem cells
+Steroidogenesis
+Sterols
+Storability
+Storage
+Straight-phase
+Streptozotocin
+Stress
+Striatal injury
+Stroke
+Structural changes
+Structure Based Library Design (SBLD)
+Structure activity relationship analysis
+Structure elucidation
+Structure prediction
+Structure-activity
+Structure-activity relationship
+Structure-function
+Subcellular Localization
+Substitution Oriented Screening
+Sulfated modification
+Sulfo-NHS-SS-biotin derivatization
+Sulfonamide
+Sulfonamide pharmacophores
+Sulfonamides
+Superoxide
+Suppression subtractive hybridization
+Sweet cherry
+Syk
+Synapse
+Synaptic plasticity
+Synovial fibroblasts
+Synthesis
+Synthetic triterpenoid
+Systemic Lupus Erythematosus
+Systemic signaling
+Systems biology
+Systems pharmacology
+Syzygium guineense
+T cells
+T2DM
+TA
+TACE
+TAG
+TATA binding protein
+TBARS
+TBDMSCl (PubChem CID: 28928)
+TBP
+TBST
+TBX
+TC
+TCDD
+TCP4, TEOSINTE BRANCHED/CYCLOIDEA/PCF4
+TDDFT CD calculations
+TG, triacylglycerol (triglyceride)
+TGF
+TGFbeta
+THETAs
+TIFY
+TLC
+TLR
+TLR-4
+TLR-NF-kappaB signaling pathway
+TLR4
+TMV
+TNB
+TNF
+TNF receptor 1
+TNF-alpha
+TNF-related apoptosis inducing ligand
+TNFR1
+TNFalpha
+TPA
+TRAIL
+TRP channels
+TRPV
+TRPV1 antagonists
+TRPV3
+TS
+TSLP
+TT network
+TTD
+TUNEL
+TUNEL = terminal deoxynucleotidyl transferase-mediated biotinylated dUTP nick-end
+TX
+TXA(2)/B(2)
+TXAS
+TXB(2)
+TXB2
+TXF
+Tacrine
+Tanimoto similarity
+TaqMan-PCR
+Target-target network
+Tau
+Tau protein
+Tauopathy
+Taurine
+Technology
+Tecia solanivora
+Teladorsagia
+Ten-oxo-11-phytoenoic acid
+Tephrosia
+Terminalia bellirica
+Terminalia macroptera
+Terpenes
+Tessaria absinthioides
+Tetragonula carbonaria
+Th1
+Th17
+Th2 cytokines
+Theiler's virus
+Therapeutic Target Database
+Therapeutic and toxic actions
+Thermal denaturation
+Thermodynamics
+Thermostability
+Thiazoles
+Thiophene-based inhibitor
+Thioredoxin
+Thioredoxin reductase
+Thiourea
+Thrombosis
+Thromboxane
+Thromboxane B(2)
+Thromboxane-B2
+Thyme
+Thymic stromal lymphopoietin
+Thymoquinone
+Thymus sibthorpii
+Tight Junctions
+Tight junction
+Time-lapse imaging
+Tinospora cordifolia
+Tissue
+Tissue repair and regeneration
+Tobacco
+Tocolytic
+Tolfenamic acid
+Toll like receptor
+Toll-like receptor
+Tomato
+Toxicity
+Tparo7 gene
+Traditional medicine
+Training system
+Transcription factors
+Transcriptomic signature
+Transfection
+Transforming growth factor
+Transgenic mouse models
+Transgenic tau mice
+Transient expression
+Translocation
+Traumatic brain injury
+Treatment
+Triacsin C
+Trial of Org 10172 in Acute Stroke Treatment (TOAST)
+Triazole
+Triazoles
+Tribulus longipetalus
+Trichoderma
+Triglyceride
+Tris-buffered saline with tween 20
+Tristan da Cunha
+Triticum aestivum
+Trk B
+Trp-Arg-Trp-Trp-Trp-Trp-CONH(2)
+Trx, thioredoxin
+Trypsin inhibitor
+Tumor necrosis factor
+Tumor necrosis factor alpha
+Tumor necrosis factor receptor
+Tumor necrosis factor-alpha
+Tumour necrosis factor
+Two-dimensional gel electrophoresis
+Two-hybrid system
+Tx
+TxA2, thromboxane A2
+TxB2, thromboxane B2
+Type 1 diabetes
+Type 2 diabetes
+Type-2 granuloma
+Tyrosol
+U.S. Food and Drug Administration
+U75302 (PubChem CID: 6449854)
+UA
+UC
+UDP
+UDP glucose:flavonoid 3-O-glucosyl transferase
+UFGT
+UFLC-MS/MS method
+UHPLC-MS/MS
+UPLC-ESI-QTOFMS, ultraperformance liquid chromatography-electrospray
+UPLC-MS/MS
+UPLC-MS/MS method
+UPR
+UTP
+UTR
+UTR, untranslated region
+UV irradiation
+UV-Vis
+UVA irradiation.
+UVB
+Ubiquinone 10
+Ulcerative colitis
+Ultrasonic processing
+Ulva
+Uncaria gambir
+Unconjugated bilirubin
+Unsaturated fatty acids (USFAs)
+Urease
+Urease inhibition
+Uroporphyrinogen decarboxylase
+Urtica dioica
+Uterine contractile activity
+V(p)
+VCAM-1
+VDAC
+VDR
+VEC
+VEGF
+VEP
+VLDL
+VOC
+VSMC
+VWF, von Willebrand factor
+Vabenaceae
+Valdecoxib
+Variability
+Vascular Biology
+Vascular Smooth Muscle Cells
+Vascular endothelial cells
+Vascular inflammation
+Vascular reactivity
+Vascular smooth muscle cells
+Vascular smooth muscle cells (VSMCs)
+Vasoconstriction
+Vasodilation
+Ventricle
+Verticillium wilt
+Vicinal diol
+Vigour
+Viral myocarditis
+Virgin olive oil
+Virology
+Virtual Combinatorial Library Design
+Virtual screening
+Virus-induced gene silencing (VIGS)
+Visual acuity
+Vitamin C
+Vitamin E
+Vitis labruscaxVitis vinifera
+Vitis vinifera
+Volatile compounds
+VvVe
+W7
+WEB2086 (Apafant, PubChem CID: 65889)
+WHV
+WNT-SHH signaling
+WRW(4)
+WSF
+Waltheria indica
+Water-extractable organic matter
+Watermelon
+Wheat
+Whole Exon Sequencing (WES)
+Wilt
+Wnt signaling
+Wnt5a
+Wound healing
+Wounding
+X-ray Crystallography
+X-ray crystallography
+X-ray structure
+XO, xanthine oxidase
+XTH
+XTH , XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE
+Xanthine oxidase
+Xanthium spinosum
+Xanthomonas campestris pv. vesicatoria.
+Yeast expression
+ZIL
+ZINC database
+ZYM
+Zafirlukast
+Zea mays
+Zea mays.
+Zebra Fish
+Zebrafish
+Zileuton
+Zinc
+Zinc complexes
+Zinc oxide nanoparticles
+Zinc(II) complexes
+Ziniolide
+Zishen pill
+Ziziphus oxyphylla
+Zymosan
+Zymosan (PubMed CID: 11375554)
+a disintegrin and metalloproteinase domain-containing protein 10
+aSMase
+abiotic
+abiotic stress
+abiotic stress tolerance
+abscised leaf
+abscisic acid
+acceptable macronutrient distribution ranges
+acetaldehyde
+acetic acid
+acetonitril
+acetylcholine
+acetylcholinesterase
+acetylcholinesterase inhibition
+acetylsalicylic acid
+acid
+acid precipitation
+acidic sphingomyelinase
+acne
+activated chemical defense
+activating transcription factor 6
+active ferric enzyme form
+active immunity
+active transport
+activity-based probes
+acute coronary syndromes
+acute inflammation
+acute liver injury
+acute myocardial infarction
+acyl hydrazones
+adaptation
+additive
+adenine nucleotide translocase
+adenosine
+adenosine diphosphate
+adenosine triphosphate
+adhesion molecules
+adipogenesis
+adipose tissue
+adipose tissue macrophages
+adjuvant-induced inflammation
+advanced glycosylation end product-specific receptor
+aerial parts
+aerobe
+aflatoxin
+aflatoxins
+aggression
+aging
+air pollution
+airway inflammation
+airway lining fluid
+airway remodeling
+airway-hyperresponsiveness
+airways
+alanine aminotransferase
+albumin
+alcohol acyltransferase (AAT)
+alcohol dehydrogenase (ADH)
+alcohol-insoluble residue
+aldehyde dehydrogenase 1
+aldehydes
+aldose reductase
+algae chlorophyll
+alginates
+allele
+allene oxide synthase
+allergen
+allergy
+alox15
+alpha,alpha-Disubstitution
+alpha-2 adrenoceptor
+alpha-DOX1, alpha-dioxygenase1
+alpha-Glucosidase
+alpha-Glucosidase and anti-urease
+alpha-Linolenic acid
+alpha-Monosubstitution
+alpha-Tocopherol
+alpha-dioxygenase
+alpha-fetoprotein
+alpha-linolenic acid
+alpha7nAChR
+alternative activation
+alveolar bone loss
+alveoli
+amino acid
+amino acids
+amnesic shellfish poisoning
+amniotic egg
+amniotic fluid
+amniotic sac
+amphioxus
+amyloid
+amyloid beta
+amyloid beta protein
+amyloid precursor protein
+anaerobe
+analgesic
+and ITC
+androgen receptor
+anesthesia
+anesthetized rat
+aneurysm
+angiogenesis factor
+angiosperms
+angiotensin II
+angiotensin II type 1 receptor
+angiotensin-converting enzyme inhibitors
+anthocyanidin synthase
+anthocyanin
+anti-allergic effect
+anti-allergic responses
+anti-allergy compound
+anti-cyclooxygenase
+anti-hepatotoxic
+anti-inflammation
+anti-inflammatories
+anti-inflammatory
+anti-inflammatory activity
+anti-inflammatory agents
+anti-inflammatory in vitro
+anti-inflammatory properties
+anti-inflammatory selectivity index
+anti-lipoxygenase
+anti-tyrosinase
+antibiotics
+antibody
+antifungal
+antifungal activity
+antigen
+antihistamine
+antiinflammatory
+antileukotriene
+antimicrobial
+antimicrobial activity
+antimicrobial peptide
+antimicrobial peptides
+antinociception
+antinociceptive
+antioxidant
+antioxidant (DPPH radical scavenging)
+antioxidant activity
+antioxidant capacity
+antioxidant defence
+antioxidant defense
+antioxidant enzyme
+antioxidant enzymes
+antioxidants
+antioxidative
+antiradical
+antityrosinase
+anus
+aorta
+aorta, abdominal
+aorte
+apical periodontitis
+apoptosis
+apoptosis signal-regulating kinase 1
+apoptotic cell(s)
+appendages
+apple aroma
+appressorial germ tube
+aqueous extract
+arachidonate 5-lipoxygenase
+arachidonate 5-lipoxygenase-activating protein
+arachidonate lipoxygenase
+arachidonatelipoxygenase 3 (ALOXE3)
+arachidonic acid
+arachidonic acid (AA)
+arachidonic acid (AA) (ARA)
+arachidonic acid (AA, ARA)
+arachidonic acid metabolites
+arbuscular mycorrhizal fungus
+aromatic plant
+artery
+artificial ageing
+aryl hydrocarbon receptor
+aryl hydrocarbon receptor (AhR) (AHR)
+asafetida
+ascorbate
+ascorbate peroxidase
+ascorbic acid
+ascorbic acid 6-palmitate
+ascus
+asexual reproduction
+aspartate aminotransferase
+aspirin
+aspirin silver complex
+aspirin triad
+aspirin-exacerbated respiratory disease
+aspirin-triggered lipoxin $A_4$
+asthma
+astrogliosis
+atherosclerosis
+atherothrombosis
+atmosphere
+atrial fibrillation
+atriums
+attention deficit hyperactivity disorder
+autoimmune disease
+automatic developing chamber
+autophagy
+autosomal dominant polycystic kidney disease
+autosomal recessive congenital ichthyosis (ARCI)
+autoxidation
+auxin
+axon
+axon degeneration
+azaspiracid shellfish poisoning
+azithromycin
+bZIP gene
+backcross breeding
+bacteria
+bacterial interspecies interactions
+bacterial lipoxygenase
+baicalein
+bambara groundnut
+barbituric acid
+basidium Club
+basilar artery
+beany flavor
+beany flavour
+behavior
+beige adipocytes
+beneficial bacteria
+beneficial microorganisms
+benzidine co-oxidation
+benzimidazole
+benzo[a]pyrene
+benzothiadizole
+beta cell dysfunction
+beta(2)-adrenergic receptor
+beta-1 adrenergic receptor
+beta-1,3-glucanase
+beta-Amyrin (CID: 73145)
+beta-Asarone
+beta-Hexosaminidase
+beta-amyloid
+beta-cells
+beta-conglycinin
+beta-glucosidase
+beta-site APP cleaving enzyme 1
+bilateral symmetry
+binomial nomenclature
+bioactive compounds
+bioactive lipid biomarkers
+bioactive lipids
+bioactive peptides
+bioassay
+biocatalysis
+biochemical markers
+biodiversity
+bioequivalence
+bioformulation
+biogenesis
+bioinformatics
+biological control
+biological vector
+biomes
+biomolecules
+biophoton emission
+biosphere
+biosynthesis
+biotic
+biotic stress
+biotransformation
+bis-chalcones
+bladder
+bladder tumor
+bleaching
+blood brain barrier
+blood platelets
+blood pressure
+bone marrow-derived macrophage
+bone mineral density
+bone remodeling
+bone resorption
+boron trifluoride
+bovine pulmonary artery
+brain
+brain ischemia
+brain stem
+brain-derived neurotrophic factor
+bronchi
+bronchial epithelial cells
+bronchoalveolar lavage
+bronchodilator
+brown adipocytes
+budding
+butylated hydroxytoluene
+butyrylcholinesterase
+butyrylcholinesterase inhibition
+c-Jun N-terminal kinase
+c-Jun NH2-terminal kinase
+c-reactive protein
+cAMP
+cAMP response element binding protein
+cAMP-response element binding protein
+cDNA-AFLP
+cGMP-inhibited 3',5'-cyclic phosphodiesterase A
+cPLA(2)
+cPLA(2)alpha inhibitor RSC-3388,
+cPTIO
+cabbage
+cadherin-1
+caffeic acid phenethyl ester
+calcium
+caleosin
+caleosins
+calreticulin
+cambium
+cannabinoid
+cannabinoid receptor type 2
+capillary
+carbohydrate
+carbon monoxide
+carbon tetrachloride
+carbon-14
+cardiac muscle
+cardiac remodeling
+cardiovascular
+cardiovascular disease
+caregiver-supplied information
+carnivore
+carrageenan
+carrageenans
+carrying capacity
+cartilage
+caspase-3
+caspase-8 and FADD-like apoptosis regulator
+catalase
+catalysis
+caulerpenyne
+cccDNA
+cd36
+cecal ligation and puncture
+cell
+cell biology
+cell culture medium
+cell death
+cell membrane
+cell migration
+cell proliferation
+cell signaling
+cell theory
+cell wall
+cell wall-modifying
+cellular antioxidant protection
+cellulose
+central nervous system
+ceramide
+cerebellum
+cerebral infarction
+cerebrum
+ceruloplasmin
+ceruloplasmine
+cervical ripening
+chalcone isomerase
+chalcone synthase
+chalcones
+chemical biology
+chemical digestion
+chemoinformatics
+chemokine
+chemokine (C-X-C motif) receptor 1
+chemokines
+chemosynthesis
+chemotherapy
+chilling injury
+chitinase 3 like protein 1
+chitosan
+chlorophyll
+chloroplast
+chloroplast envelope
+cholesterol
+choline kinase
+cholinesterase inhibition
+chordate
+chromones
+chromosome
+chronic cardiomyopathy
+chronic hepatitis B
+chronic idiopathic urticaria
+chronic kidney disease
+chronic obstructive pulmonary disease
+chronic pain
+chyme
+chymotrypsin
+cigarette smoke extract
+ciguatera fish poisoning
+cilia
+cinnamoyl CoA reductase
+cinnamyl alcohol dehydrogenase
+circular dichroism
+class II transactivator
+classical activation
+cleavage reactions
+climate
+climate change
+climate change scenarios
+climax community
+clinical chorioamnionitis
+clinical dementia rating
+clinical trial simulation
+clinician's interview-based impression of change scale which included
+closed circulatory system
+clotting
+cochlea
+cochlea Fluid
+coexpression
+coffee
+coffee roasting
+cognitive subscale of the Alzheimer's disease assessment scale
+coi1
+cold
+cold break and hot break
+cold storage
+colonization
+colony forming units
+combination therapy
+combinatorial drug discovery
+commensalism
+common bean
+community
+computational biology
+computational chemistry
+computed tomography
+concussion
+condensation
+conditioned inhibition learning
+conditioning
+confidence interval
+confocal laser scanning microscopy
+conjugated linoleic acids
+consumer
+contour feathers
+contraction
+control
+control virus
+coomassie brilliant blue
+copepods
+copy number variations
+coral
+coral reef
+core collection
+core promoter
+corilagin
+coronary artery diseases
+coronary heart disease
+cortical cultures
+corticosteroids
+corticotropin-releasing hormone receptor 2
+costimulatory molecules
+courtship behavior
+covalently closed circular DNA
+crop
+cross tolerance
+cross-reactivity
+cryptosporioptide derivatives
+crystal structure
+cucumber
+curcumin
+curcuminoids
+cuticle
+cyclic AMP
+cyclic adenosine monophosphate
+cyclic adenosine monophosphate (cAMP) response element-binding protein
+cyclic behavior
+cyclin dependent kinase-5
+cyclooxigenase
+cyclooxygenase
+cyclooxygenase 2
+cyclooxygenase prostaglandin
+cyclooxygenase-2
+cyclooxygenase-LO dual inhibition
+cyclooxygenases
+cyclooxygensae
+cysteinyl leukotriene 1 (CYSLTR1)
+cysteinyl leukotriene 2 (CYSLTR2)
+cysteinyl leukotrienes
+cystic fibrosis
+cytidine diphosphate choline
+cytidine triphosphate
+cytidine triphosphate-phosphocholine cytidyl transferase
+cytochrome P450
+cytochrome P450 CYP2C8 (human)
+cytochrome P450 monooxygenases
+cytokine
+cytokines
+cytoplasm
+cytosolic phospholipase A(2)
+cytosolic phospholipase A2alpha
+cytotoxic
+cytotoxic activity
+cytotoxicity
+d/n
+damage-associated molecular pattern
+database and data management
+date palm
+day neutral plant
+ddH(2)O
+death-associated protein kinase 1
+deciduous forest
+deep brain stimulation
+defence enzymes
+defence response
+defense
+defense priming
+defense proteins
+defense responses
+deleted in colorectal carcinoma
+deletion derivatives
+dendrite
+density functional theory
+deoxynucleotidyl transferase dUTP nick end-labeling
+depression
+dermal inflammation
+dermatitis
+dermis
+desert
+desiccation tolerance
+designed multitarget ligands
+detoxification
+deuterium
+development
+developmental programming
+dexmedetomidine
+diHETrE
+diHOME
+diabetes
+diabetes mellitus
+diabetes mellitus type 2
+diabetic nephropathy
+diabetic retinopathy
+diacyl glyceryl ether
+diacylglycerol
+diaphragm
+diarrhetic shellfish poisoning
+diatom detrimental effect
+diatoms
+dicot
+diesel exhaust
+diethyl ether
+diethyl ether subfraction
+diffusion
+digital inclinometry
+dihomo-gamma-linolenic acid
+dihydroflavonol reductase
+dihydroxy linoleic acid
+dihydroxy oleic acid
+dihydroxy-eicosatetraenoic acid
+dihydroxy-eicosatrienoic acids
+dihydroxy-octadecenoic acids
+dimethyl sulfoxide
+dioxin
+dioxins
+dioxygenase
+dipalmitoylphosphatidylcholine
+diphtheria-tetanus-pertussis
+diploid
+direct IAP-binding protein with low pI
+disease-related genetic network
+divinyl ether synthase
+docking
+docking and scavenger properties
+docking study
+docosahexaenoic acid
+docosahexaenoic acids
+docosapentaenoic acid
+dominant
+dominant negative
+dopamine
+double distilled H(2)O
+double electron-electron resonance
+dough
+down feathers
+drought
+drug design
+drug discovery
+dry-cured bacon
+dye uptake
+dysfunctional high-density lipoproteins
+dyslipidaemia
+dyslipidemia
+eIF2alpha
+eIF2alpha kinase 3
+eLDL
+eNOS
+eSS rats (Stillman Salgado rats)
+early asthmatic response
+ecology
+ecosystem
+ectotherm
+edaravone
+edema
+efferocytosis
+egg
+eicosanoid
+eicosanoid biosynthesis
+eicosanoid receptors polymorphisms
+eicosanoides
+eicosanoids
+eicosapentaenoic acid
+ein2-1, ethylene insensitive 2-1
+einkorn
+elderberry
+electrical signal,
+electron microscopy
+electron paramagnetic resonance
+electron transfer particles
+electrospray ionization
+electrospray ionization mass spectrometry
+elevation
+elicitation
+elicitation phase of contact dermatitis
+embryo
+embryology
+emphysema
+enantiomeric ratio
+endo-1,4-beta-glucanase
+endocannabinoid signaling
+endocannabinoids
+endocytosis
+endophyte
+endoplasmic reticulum
+endoplasmic reticulum to nucleus signaling 1
+endoskeleton
+endospore
+endothelial NOS
+endothelial cell
+endothelial cells
+endothelial nitric oxide synthase
+endothelium
+endothelium-derived hyperpolarizing factors
+endotherm
+endovanilloids
+energy pyramid
+enzymatic mechanism
+enzyme
+enzyme activity
+enzyme coupling
+enzyme inactivation
+enzyme inactivation kinetics
+enzyme inhibition
+enzyme inhibitors
+enzyme inhibitory
+enzyme kinetics
+enzyme mechanism
+enzyme mechanisms
+enzyme mutation
+enzyme-catalyzed oxidation
+enzymes
+enzymology
+eosinophil
+eosinophil cationic protein
+eosinophil peroxidase
+eosinophil-derived neurotoxin
+eosinophils
+epidermal growth factor receptor
+epidermis
+epigenetics
+epistasis
+epistatic interactions
+epithelia
+epoxy alcohol synthase
+epoxy fatty acids
+epoxy-eicosatrienoic acids
+epoxy-octadecenoic acids
+epoxyeicosatrienoic acid
+epoxygenase
+equilibrium
+ergosterol
+erosion
+esculetin
+esophagitis
+essential fatty acid
+essential fatty acids
+essential oil
+estivation
+estuary
+ethanol
+ethyl acetate subfraction
+ethyl acetate.
+ethylene
+ethylenediaminetetraacetate
+etr1-1, ethylene response1-1
+eukaryotic translation initiation factor 2alpha
+evaporation
+evolution
+evolutionary history
+excess red light
+exhaled breath condensate
+exocytosis
+exoskeleton
+expansin
+expression regulation
+extensograph
+extinction
+extra-articular manifestation
+extracellular matrix
+extracellular signal-regulated kinase 1/2
+extracellular signal-regulated kinases 1/2
+extraction protocols
+extracts Lavatera cretica
+exudation
+fMLP
+farnesoid X receptor alpha
+fatty acid
+fatty acid amide hydrolase
+fatty acid desaturase
+fatty acid dioxygenase
+fatty acid epoxide
+fatty acid hydroperoxides
+fatty acid methyl esters
+fatty acid oxidation
+fatty acid/oxidation
+fatty acid/physical chemistry
+fatty acids
+fatty aldehyde dehydrogenase
+fatty degeneration
+fermentation
+ferric chloride (III)
+ferroptosis
+fertilization
+fetal bovine serum
+fetal stress
+fetus
+fibrin
+fibrinolysis
+fibroblasts
+fin
+firefly
+fisetin
+fission
+flagellum
+flavanone 3-hydroxylase
+flavocoxid
+flavone
+flavonoids
+flavor
+flooding
+flooding stress
+floral organ abscission
+flower senescence
+fluorescence correlation spectroscopy
+fluorescence energy transfer
+fluorescence microscopy
+fluorescence spectroscopy
+foam cell
+focal adhesion kinase
+foliar disease
+folk medicine
+food choice
+food group
+food web
+foraging
+formic acid
+formyl peptide receptor 1
+formyl peptide receptor-2
+formyl-methionyl-leucyl-phenylalanine
+fossil fuels
+fraction 5
+fracture healing
+frankincense
+free fatty acid
+free fatty acids
+free living organism
+free oxygen radicals
+free radicals inhibition
+fresh water
+fresh weight
+frond
+fruit borer
+fruit development
+fruit peel
+fruit ripening
+fucans
+fum1 mutant
+fumonisin
+functional expression
+functional properties
+fungal infection
+gallstone pancreatitis
+gametophyte stage
+gamma linolenic acid
+gamma-Ketols
+gamma-Secretase
+gamma-Secretase activating protein
+gamma-Secretase-modulator
+gap junctions
+gas chromatography
+gas chromatography coupled with mass spectrometry
+gastric emptying
+gastrointestinal
+gastropoda
+gene
+gene duplication
+gene expression
+gene ontology
+gene polymorphism
+genes.
+genetic engineering
+genetic polymorphism
+genetics
+genetics and development
+genistein
+genistein7-O-[alpha-rhamnopyranosyl-(1-->6)]-beta-glucopyranoside
+genistin
+genotype
+genus
+geothermal energy
+germ cells
+germination
+gestation period
+giant cell system
+giant unilamellar vesicle
+giant unilamellar vesicles
+gill slits
+gills
+gizzard
+glial cell-derived neurotrophic factor
+globulin
+glucocorticoid
+glucocorticoids
+glucose transporter 1, GPx, glutathione peroxidase
+glucose uptake
+glucose-regulated protein, 78kDa
+glucose-stimulated insulin secretion
+glucosinolate breakdown products
+glutamate receptor-like,
+glutathione
+glutathione depletion model
+glutathione disulfide
+glutathione peroxidases
+gluten
+glyceraldehyde 3-phosphate dehydrogenase
+glycerolipase
+glycinin
+glycogen synthase kinase 3beta
+golgi bodies
+gradualism
+granulocyte macrophage colony stimulating factor
+grape variety
+grasslands
+green leaf volatiles
+green peach aphid
+green tea catechins
+greenhouse effect
+grey poplar
+groundnut
+group significance analysis
+growth arrest- and DNA damage-inducible gene 34
+guaianolide-type sesquiterpene lactones
+guard cells
+gymnosperms
+hBMSC
+hPBMCs
+habitat
+hai
+half maximal inhibitory concentration
+half maximal scavenging concentration
+haploid
+harmful algal bloom
+hazardous wastes
+headspace analysis
+heat inactivation
+heat shock
+heat stress
+heat-shock protein
+heating
+heme oxygenase
+hemoglobin
+hemorrhage
+hemostasis
+heparin
+hepatic stellate cell
+hepatic stellate cell activation
+hepatitis B
+hepatitis B X protein
+hepatitis B core antigen
+hepatitis B e antigen
+hepatitis B immune globulin
+hepatitis B surface antigen
+hepatitis B virus
+hepatitis C virus
+hepatocellular carcinoma
+hepoxilin
+hepoxilin A3/B3
+heptanoyl salicylic acid
+herbal medicine
+herbivore
+herbivore deterrence
+herbivory
+heredity
+hermaphrodite
+heterocyclization
+heterogeneous nuclear ribonucleoproteins K
+heterozygous
+hexahydroxydiphenyl unit
+hibernation
+high density lipoprotein
+high fat diet
+high mobility group box 1
+high performace liquid chromatography
+high performance liquid chromatography
+high performance liquid chromatography (HPLC)
+high temperature
+high temperature stress
+high-fat diet
+high-performance liquid chromatography
+high-performance liquid chromatography with diode array detector and mass
+high-performance thin layer chromatography
+histone deacetylase 1
+histopathological studies
+histopathology
+hnRNP K
+homeostasis
+hominid
+homo sapiens
+homoisoflavanone
+homologous
+homology modeling
+homozygous
+hormone
+horsenettle
+horseradish peroxidase
+host cell
+host-pathogen interactions
+hours after inoculation
+hours post treatment
+house dust mite
+hps
+human
+human 5-lipo-oxygenase inhibitors
+human immunodeficiency virus
+human lipo-oxygenase
+human lipoxygenase assay
+human neutrophils
+human respiratory tract epithelial cells
+human serum albumin
+human skeletal muscle cells
+human skin
+human whole-blood assay
+hyaluronidase
+hybrid
+hydraulic signal,
+hydrazide
+hydro(pero)xy linoleic acid
+hydroelectric power
+hydroethanolic extract
+hydrogen bond
+hydrogen peroxide
+hydrogen sulfide
+hydrogen tunneling
+hydrogen-isotope exchange
+hydrolyzates
+hydroperoxide
+hydroperoxide lyase
+hydroperoxide oxygenation
+hydroperoxide sensing
+hydroperoxy lyase
+hydroperoxyeicosatetraenoic acid
+hydroperoxyeicosatetraenoic acids
+hydroperoxyoctadecadienoic acid
+hydroquinone glycosides
+hydrostatic pressure
+hydrox-eicosapentaenoic acids
+hydroxy fatty acids
+hydroxy-docosahexaenoic acid
+hydroxy-eicosapentaenoic acid
+hydroxy-eicosatetraenoic acid
+hydroxy-eicosatetraenoic acids
+hydroxy-eicosatrienoic acid
+hydroxy-epoxyeicosatrienoic acids
+hydroxy-octadecadienoic acids
+hydroxy-octadecaenoic acid
+hydroxy-octadecatrienoic acids
+hydroxyacids
+hydroxyeicosatetraenoic acid
+hydroxyeicosatetraenoic acids
+hydroxyoctadecadienoic acid
+hydroxyquinoline hemisulfate
+hydroxyurea
+hyperalgesia
+hyperforin
+hypersensitive response
+hypersensitivity drug reactions
+hypertension
+hyphae
+hypochlorous acid
+hypothesis
+hypoxia
+hypoxic pulmonary vasoconstriction
+i
+iNOS
+iPLA2
+iTRAQ
+ibuprofen
+ida, inflorescence deficient in abscission
+imaging techniques
+imidazo[1,2-a]pyridine
+imidazo[2,1-b]thiazole
+immune globulin G
+immune response
+immune system
+immunity, innate
+immunoassay
+immunohistochemistry
+immunolabelling
+immunology
+immunomodulatory
+imprinting
+in silico
+in vitro potato
+inactive ferrous enzyme form
+inbreeding
+incomplete dominance
+incubate
+indo-1 AM (PubChem CID: 123918)
+indole alkaloids
+indomethacin
+induced disease resistance
+induced emissions
+induced resistance
+inducible NOS
+infarct
+infection
+infectous disease
+inflammation
+inflammation resolution
+inflammatory bowel diseases
+inflammatory mediators
+inflammatory pain
+inflorescence meristem
+infochemicals
+inhibition
+inhibitor
+inhibitor of kappa B
+inhibitors
+inhibitory concentration
+inhibitory dose
+innate behavior
+innate immune system
+inoculated
+inorganic compound
+inositol-requiring enzyme 1alpha
+insight
+instinct
+insulin resistance
+integrated backscatter
+integrin
+intelligence quotient
+interaction
+intercellular adhesion molecule-1
+interferon
+interferon alpha
+interferon gamma
+interferon-gamma
+interleukin
+interleukin receptor
+interleukin-12
+interleukin-17A
+interleukin-2
+interleukin-6
+interleukins
+internal medicine
+internal standard
+intertidal zone
+intestinal epithelial cells
+intestinal inflammation
+intima-media thickness
+intra-amniotic inflammation
+intracerebral hemorrhage
+intravital microscopy
+invasive species
+invertebrate
+involuntary muscle
+ion transport
+ionization-quadrupole time-of-flight mass spectrometry
+iron chelating
+iron chelators
+irreversible inhibition
+ischemia
+ischemia reperfusion arrhythmia
+ischemia/reperfusion
+ischemic stroke
+iso-quercetin
+isoelectric focusing
+isoflavans derivative
+isoflavonoids
+isolation
+isoliquiritigenin
+isoprene
+isoprene emission
+isosilybinin
+jasmonate
+jasmonate pathway
+jasmonate,
+jasmonates
+jasmonic acid
+jasmonic acid carboxy-methyltransferase
+joint
+kairomone
+kidney
+kidney bean
+kinetic
+kinetics
+kingdom
+kino
+kisspeptin
+kisspeptine
+l-NA
+l-NMMA
+labeling
+labor induction
+lactic acid bacteria
+lactopyranosyl-sn-glycerol
+laminarin
+large unilamellar vesicle
+large unilamellar vesicles
+large-artery atherosclerosis
+larynx
+laurdan
+laurdan fluorescence
+law
+leaves
+lectin
+lentivirus
+lethal concentration
+leukocyte-endothelial cell interaction
+leukocytes
+leukotriene
+leukotriene A4
+leukotriene A4 hydrolase
+leukotriene B(4)
+leukotriene B(5)
+leukotriene B4
+leukotriene B4 deuterated
+leukotriene B4 receptor 1
+leukotriene B4 receptor 2
+leukotriene B4-BLT1 axis
+leukotriene B5
+leukotriene C(4)
+leukotriene C4 synthase
+leukotriene biosynthesis
+leukotriene receptor antagonist
+leukotriene receptor antagonists
+leukotriene receptors
+leukotrienes
+lichen
+licofelone
+ligament
+light dependency
+light microscopy
+lignan
+lignans
+limit of detection
+limit of quantification
+limiting factor
+link atom
+link bond
+linker for activation of T cells
+linoleic acid
+lipase
+lipase hydrolysis
+lipid
+lipid accumulation
+lipid chemoattractant
+lipid degradation
+lipid mediator
+lipid mediators
+lipid oxidation
+lipid peroxidation
+lipid raft(s)
+lipid rafts
+lipid remodeling
+lipid signaling
+lipid transfer protein
+lipidomic
+lipidomics
+lipids
+lipids/chemistry
+lipids/peroxidation
+lipolysis
+lipooxygenase
+lipophilic extracts
+lipopolysaccharide
+lipopolysaccharides
+liposomes
+lipoxidase
+lipoxigenase
+lipoxin
+lipoxin A4
+lipoxin A4 deuterated
+lipoxin A4/B4
+lipoxin B4
+lipoxins
+lipoxygenase
+lipoxygenase (LOX)
+lipoxygenase activity
+lipoxygenase inhibition
+lipoxygenase inhibitor
+lipoxygenase inhibitors
+lipoxygenase inhibitory activity
+lipoxygenase inhibitory effect
+lipoxygenase pathway
+lipoxygenase products
+lipoxygenase-1
+lipoxygenase-hydroperoxide lyase pathway
+lipoxygenase-inhibiting activiy
+lipoxygenases
+liquid chromatography
+liquid chromatography coupled with mass spectrometry
+liquid chromatography-mass spectrometry
+liquid chromatography/tandem mass spectrometry
+liver
+liver fibrosis
+liver injury
+liverworts
+living cell(s)
+lnc-ARG
+lncRNA
+long acting muscarinic receptor
+long day plant
+long distance signaling
+long terminal repeat
+long-chain polyunsaturated fatty acids
+low density lipoprotein
+low-grade chronic inflammation
+ltp
+luciferase
+luminol chemiluminescence
+lung
+lung disease
+lung function
+lung injury
+luteolin
+lyases
+lycopene
+lymph
+lymph node
+lymphatic system
+lymphoblastic leukemia
+lymphocyte
+mPGES-1
+mPGES-1, microsomal prostaglandin E synthase-1
+mTOR
+macrophage
+macrophage differentiation
+macrophage(s)
+macrophages
+macrophagic myofasciitis
+maize
+maize kernels
+major basic protein
+malondialdehyde
+malting barley
+mammals
+mammary glands
+manganese superoxide dismutase
+mantle
+maresin
+marine bivalve
+marker
+marker-assisted selection
+marsupial
+mass spectrometry
+mass spectrometry (MS)
+mastic tree (Pistacia lentiscus)
+mastitis
+matrix assisted laser desorption ionization-time of flight-time of flight
+matrix metalloproteinase
+matrix-assisted laser desorption/ionization-time of flight
+maximal particle dimension
+maximum value of adjusted R-square
+mechanical digestion
+mechanism of action
+mechanistic physiological model
+mechanosensor,
+medicinal chemistry
+medusa
+meiosis
+melanin
+melatonin
+membrane
+membrane binding
+membrane destruction
+membrane domains
+membrane integrity
+membrane interaction
+membrane protein
+membrane remodeling
+memory
+memory erasure
+menstrual cycle
+mental development index
+meroterpeno 2H-pyranoids
+mesenchymal stem cell
+metabolic disorder
+metabolic syndrome
+metabolism
+metabolites
+metabolome
+metabolomics
+metal toxicity
+metalloenzyme
+metals
+metastasis-associated protein 1
+metaux
+methanol
+methods/HPLC
+methyl 5-chloro-3-methyl-5-oxopentanoate (PubChem CID: 10888500)
+methyl formate
+methyl jasmonate
+methyl salicylate
+methyl thiazolyl tetrazolium
+methyl-ss-cyclodextrin
+methylated flavonols
+methylglyoxal
+miR
+miR-181b
+miR-674-5p
+miRNA
+mice
+microRNA
+microalgae
+microbe-associated molecular pattern
+microcystin
+microglia
+microparticles
+microsomal prostaglandin E synthase-1
+microsomal prostaglandin E2 synthase-1
+microsporum
+migrating motor complex
+mild cognitive impairment
+mineral content
+mini-mental state examination
+minimum inhibitory concentration
+mira
+mitochondria
+mitochondrial outer membrane permeabilization
+mitochondrial respiratory chain
+mitochondrial transmembrane potential
+mitogen-activated protein kinase
+mixed lineage kinase domain-like
+molecular docking
+molecular docking and dynamics
+molecular dynamics
+molecular imaging
+molecular mechanics
+molecular modeling
+molecular modelling
+molecular weight
+monoaminoxidase
+monocyclic peroxide
+monocyte chemoattractant protein-1
+monocytes
+monohydroperoxyeicosatetraenoic acids
+monoterpene emission
+monoterpene glycosides
+monounsaturated fatty acids
+montelukast
+mood
+motility
+mouse model
+mssCDT
+mucin
+multilamellar lipid vesicles
+multiple reaction monitoring
+multitarget agents
+multivariate curve resolution
+mutagenesis
+mutagenicity
+mutants
+mutation
+mycotoxin
+myeloperoxidase
+myeloperoxydase
+myocardial infarction
+myosteatosis
+myxochelin
+n-3 Fatty acids
+n-3 LC-PUFA
+n-3 PUFA
+n-3 PUFAs
+n-3 fatty acid
+n-3 long-chain polyunsaturated fatty acids
+n-3 omega essential fatty acids
+n-3PUFA
+n-6 PUFA
+n-butanolic subfraction
+nan/submicro-medicine
+nanoemulsion
+nanosized titanium dioxide
+nasal polyps
+natural killer
+natural products
+necrotic cell(s)
+nervecord
+neurodegenerative disease
+neurogenic inflammation
+neuroinflammation
+neuron
+neuroprotectin
+neuroprotectin D1
+neuroprotection
+neuropsychiatric inventory
+neurotoxic shellfish poisoning
+neutral sugars
+neutrophil
+neutrophil migration
+neutrophile
+neutrophils
+newborn
+next-generation sequencing
+ni
+niche
+nicotine
+nicotine biosynthesis
+nitrative stress
+nitric oxide
+nitric oxide synthase
+nitric oxide-releasing nonsteroidal anti-inflammatory drugs
+nitro-l-arginine
+nitro-l-arginine methyl ester
+nitrobluetetrazolium
+nitrogen cycle
+nitrogen fixation
+nitrogen fixing bacteria
+nitrosative stress
+nodularin
+non-alcoholic fatty liver disease
+non-alcoholic steatohepatitis
+non-bullous congenital ichthyosiformerythroderma (NBCIE)
+non-human primates
+non-inoculated
+non-resolving inflammation
+non-steroidal anti-inflammatory drug
+non-steroidal anti-inflammatory drugs
+noncovalent interactions
+noninfectious disease
+nonrenewable resources
+nonsteroidal anti-inflammatory drug
+nonsteroidal anti-inflammatory drugs
+nonthermal
+noodles
+nor-triterpenoid
+nordihydro-guaiaretic acid
+nordihydroguaiaretic acid
+notochord
+nuclear energy
+nuclear factor kappa B
+nuclear factor kappaB
+nuclear magentic resonance
+nuclear magnetic resonance
+nuclear magnetic resonance (NMR)
+nuclear transcription factor kappaB
+nucleotide-binding oligomerization domain-like receptor containing pyrin domain 3
+nucleus
+nutrients
+nutrition
+nutritional quality
+obesity
+octadecatrienoic acid
+odds ratio
+off-flavor
+oil bodies
+oil body
+oilseeds
+okadaic acid
+okara
+oleic acid uptake
+oleochemistry
+olfactory cell
+olibanum
+oligosaccharides
+olive
+olive fruit
+olive oil aroma
+omega-3
+omega-3 fatty acid
+omega-3 fatty acids
+omega-3 polyunsaturated fatty acid
+omega-3 polyunsaturated fatty acids
+omega-6
+omega-6 polyunsaturated fatty acids
+omega3 polyunsaturated fatty acids
+omnivore
+open circulatory system
+open reading frames
+opioid receptors
+opossum kidney cells
+oral dosage
+organ
+organelles
+organic compounds
+organism
+osmosis
+osmotic stress response
+osteoarthritis
+osteoblasts
+osteoclast
+osteoclastogenesis
+osteoclasts
+osteopontin
+osteoporosis
+ovalbumin
+ovary
+overexpression
+overreactivity
+ovulation
+ovule
+oxLDL
+oxidation
+oxidative damage
+oxidative enzymes
+oxidative stress
+oxidized LDL
+oxidized lipids
+oxidoreductase
+oxo-linoleic acid
+oxo-octadecadienoic acid
+oxo-oleic acid
+oxoODE
+oxocine carboxylate cyclic ether
+oxygen channel
+oxygenation mechanism
+oxylipid
+oxylipin
+oxylipins
+oyl]-pyrrolidin-2-ylmethyl}-3-[4-(2,4-dioxothiazolidin-5-ylidenemethyl)-phenyl]ac
+ozone depletion
+p-ERK 1/2
+p.p.
+p38 mitogen-activated protein kinases
+pIgR
+pain
+palonosetron
+pancreatitis
+pannexin
+pantoprazole
+paralytic shellfish poisoning
+parasitism
+partial least squares
+partial least squares discriminant analysis
+particle volume
+parturition
+passive immunity
+passive transport
+pasteurization
+pathogen
+pathogenesis-related
+pathogenic pathways
+pathologic neovascularization
+pathophysiology
+pathway
+pattern recognition receptor
+pattern recognition receptors
+peach [Prunus persica (L.) Batsch] fruit
+pectate lyase
+pectin methylesterase
+pediatric nephrology
+peel
+pentyl magnesium bromide (PubChem CID: 121513990)
+peptide mass finger printing
+peptide synthesis
+peptidoglycan
+peptidomics
+perennial Glycine species
+periodontal disease
+periosteum
+peripheral blood mononuclear cell
+peripheral blood mononuclear cells
+peripheral nervous system
+peripheral vascular diseases
+peristalsis
+peritoneal macrophages
+permeability transition pore complex
+peroxidase
+peroxidase activity
+peroxidation
+peroxiredoxins
+peroxisome proliferator activated receptor
+peroxisome proliferator activating receptor alpha/delta/gamma
+peroxisome proliferator activator-receptor-gamma
+peroxisome proliferator-activated receptor
+peroxisome proliferator-activated receptor (PPAR)
+peroxisome proliferator-activated receptor alpha (PPARalpha)
+peroxisome proliferator-activated receptor gamma
+peroxisome proliferator-activated receptor-gamma
+peroxygenase
+persimmon
+pest resistance
+petroleum
+phagocytosis
+pharmaceutical chemistry
+pharmacogenetics
+pharmacogenomics
+pharmacology: ligand binding
+pharmacotherapeutics
+pharynx
+phenolic compounds
+phenolic content
+phenolic glycosides
+phenolics
+phenolics-producing enzymes
+phenols and volatiles
+phenotype
+phenotypic drug discovery
+phenylalanine ammonia lyase
+phenylalanine-ammonia lyase
+pheromone
+phloem
+phorbol myristate acetate
+phosphatases
+phosphate buffered saline
+phosphate-buffered saline
+phosphatidylcholine
+phosphatidylcholine-associated nonsteroidal anti-inflammatory drugs
+phosphatidylethanolamine
+phosphatidylethanolamine binding protein 1
+phosphatidylinositol
+phosphatidylserine
+phosphodiesterase
+phosphoglycerate mutase family member 5
+phosphokinase C
+phospholipase
+phospholipase A
+phospholipase A(2)
+phospholipase A2
+phospholipase C2
+phospholipase Cgamma
+phospholipases
+phospholipid
+phospholipids
+phospholipids/metabolism
+phospolipase A(2)
+photoinhibition
+photoperiodism
+photoprotection
+photosynthesis
+phycocyanin
+phylogeny
+physicochemical
+phytoalexin
+phytoalexins
+phytochemical
+phytochrome B.
+phytoconstituents
+phytoplankton
+pigeonpea
+pioneer species
+piperine
+piperonal
+piperonylic acid
+pistil
+placenta
+placental
+plant growth promoting rhizobacteria (PGPR)
+plant growth regulator
+plant hormones
+plant response
+plant-insect interactions
+plant-microbe interactions
+plaquettes
+plasma
+plasma lipids
+plasmodesmata,
+platelet
+platelet activating factor
+platelet activation
+platelet aggregation
+platelet pharmacology
+platelet-activating factor
+platelets
+pleiotropic
+pneumonia
+podocyte
+polarization
+pollen grain
+pollination
+pollutant
+polyamine
+polyclonal antibody
+polycystic kidney disease
+polyethylene
+polyethylene glycol
+polygalacturonase
+polygenic inheritance
+polymerase chain reaction
+polymeric immunoglobulin receptor
+polymers
+polymorphism
+polymorphisms
+polymorphonuclear cells
+polymorphonuclear leukocytes
+polyp
+polyphenol
+polyphenol oxidase
+polyphenols
+polypropylene
+polytetrafluoroethylene
+polyunsaturated fatty acid
+polyunsaturated fatty acids
+population
+portal hypertension
+positive control
+post partum
+post-illumination bursts
+post-translational modifications
+postanal tail
+potassium hydroxide-soluble fraction
+potato proteins
+potential
+precocious sexual inducer
+precooked frozen Brassicas
+precore
+precursor
+preening
+pregnancy
+prenylated terpenoids
+primary germ tube
+primates
+priming
+primordial follicle
+principal component analysis
+procyanidins
+producer
+proliferation
+proline
+promoter
+propofol
+proresolving mediators
+prostacyclin
+prostacyclin synthase
+prostaglandin
+prostaglandin D(2)
+prostaglandin E
+prostaglandin E(2)
+prostaglandin E2
+prostaglandin E3
+prostaglandin endoperoxide synthase
+prostaglandin receptors
+prostaglandins
+prostanoids
+protease
+protectin
+protectin D1
+protein
+protein bodies.
+protein component
+protein conformations
+protein design
+protein interactions
+protein isolate
+protein kinase A
+protein kinase B
+protein kinase C
+protein kinase Cdelta
+protein kinases/MAP kinase
+protein motions
+protein oxidation
+protein phosphatase
+protein phosphatase 1
+protein structure
+protein-1
+protein-phospholipid complexes
+protein-protein interaction
+protein-protein interactions
+proteins
+proteomics
+prothallus
+protist
+proton pump inhibitor
+protozoan
+proximity-ligation assay
+pseudopods
+psi
+psi-factor producing oxygenase
+psychomotor development index
+psychosis
+pulmonary adventitia fibroblast
+pulmonary artery
+pulmonary circulation
+pulmonary fibrosis
+pulmonary hypertension
+pulsed ultraviolet (PUV)
+punctuated equilibrium
+punnett square
+purifying selection
+pyrimidinylthio
+pyrroles
+qRT-PCR
+quality
+quality attributes
+quantitative responses
+quantitative stress dose-response relationships
+quantum mechanics
+quantum mechanics/molecular mechanics
+quasi-lipoxygenase
+quercetin
+rabbit reticulocyte 12/15 lipoxygenase
+radial symmetry
+radical scavenging
+radicals
+radio-frequency
+radioactive element
+radiosynthesis
+radius of gyration
+radula
+randomised controlled trial
+randomized double blind placebo controlled
+ranuncoside
+rat
+rat vascular smooth muscle cell
+rats
+rdbpc
+reactive nitrogen species
+reactive oxygen species
+reactive oxygen species (ROS)
+real-time RT-PCR
+real-time quantitative polymerase chain reaction
+receptor binding
+receptor localization
+receptor-interacting protein kinase 1
+receptors
+recessive
+recombinant lipoxygenase
+recombinated Anabaena sp. lipoxygenase
+recovery stage
+recycling
+red algae
+red blood cells
+red seaweed
+redox regulation
+reduced nicotinamide adenine dinucleotide phosphate oxidase
+reflex
+regio- and stereospecificity
+region of interest
+regioselectivity
+regulation
+relative ratios
+remodeling
+renal cell carcinoma
+renewable resources
+repeatable battery for the assessment of neuropsychological status
+reproductive development
+reproductive effort
+reproductive potential
+resolution
+resolution of inflammation
+resolution phase
+resolvin
+resolvin D1
+resolvins
+respiration
+respiratory disease
+respiratory diseases
+resurrection plants
+resveratrol
+retina
+retina ganglion cells
+retinal inflammation
+retinal microvascular endothelial cells
+retinal neovascularization
+retinal vascular leakage
+retinoic acid receptor
+retinoic acid receptor-related orphan receptor alpha
+retinoid X receptor
+revascularization
+reverse biosynthesis
+reverse genetic
+reversed phase-high performance liquid chromatography
+rheological properties
+rheological property
+rheumatoid arthritis
+rhinosinusitis
+rhizoids
+rhizome
+rhizosphere
+rhodanines
+ribosome
+rice
+ripening
+risk
+risk factors
+root
+root-to-shoot signaling
+rosiglitazone
+rotator cuff
+rr 12/15-LOX
+ruthenium compounds
+ruthenium red
+rutin
+rylamide (PubChem CID: 9833099)
+sEH
+sPLA(2)
+salicylhydroxamic acid
+salicylic acid
+salinity
+saprophyte
+saturated fatty acids
+sauce
+sb 15-LOX
+scales
+scientific method
+sea urchin
+seasonal variation
+seaweeds
+sebaceous gland
+sebocytes
+seborrhea
+secondary dormancy
+secondary metabolite
+secondary metabolites
+secretagogue
+secreted phosphoprotein-1
+secretory phospholipase A(2)
+sedimentary rock
+seed development
+seed germination
+seed longevity
+seed proteins
+seed yield
+seedling development
+selectivity index
+semen
+seminiferous tubules
+senescence
+sensory
+sensory quality
+serotonin
+serum-free medium
+sessile
+setae
+setileuton
+severe asthma
+sex linked gene
+sexual dimorphism.
+sexual reproduction
+sexually transmitted disease
+shRNA
+shikimate pathway
+short day plant
+siRNA
+sialic acid-binding Ig-like lectin 10
+side effects
+siderophores
+signal to noise ratio
+signal transducer and activator of transcription
+signal transducer and activator of transcription 3
+signal transducers and activators of transcription 1 (STAT1)
+signaling
+signaling molecule
+signaling pathways.
+silencing
+silybinin
+silycristin
+silydianin
+silymarin
+simvastatin
+single nucleotide polymorphisms
+single nucleotide polymorphisms (SNPs)
+singlet oxygen
+skeletal muscle
+skeletal system
+skin
+skin homing
+small unilamellar vesicles
+small-angle X-ray scattering
+small-artery occlusion
+smokers
+smooth muscle
+social behavior
+society
+sodium borohydride
+sodium carbonate-soluble fraction
+sodium dodecyl sulfate polyacrylamide gel electrophoresis
+sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)
+sodium dodecyl sulfate-poly acrylamide gel electrophoresis
+sodium hypochlorite
+softening
+soil
+soil composition
+soil pathogen
+solid-phase extraction
+solid-phase extraction (SPE)
+soluble epoxide hydrolase
+soluble expression
+soluble solid content
+sori
+soy milk
+soy protein isolate
+soybean
+soybean genotype
+soybean lipoxygenase
+soybean lipoxygenase 1
+soybean lipoxygenase inhibition
+specialised pro-resolving mediators
+specialized pro-resolving mediators
+specialized proresolving mediators
+species
+specificity
+spectrometer
+spectrometry
+spectroscopic data
+sperm
+sphingolipid
+sphingolipids
+sphingosine-1-phosphate
+spiracles
+spleen tyrosine kinase
+spontaneous generation
+sporangium
+spore
+spores
+sporophyte stage
+sputum induction
+squalene
+squeeze cell hypothesis,
+src-kinase
+stability
+stamen
+standard deviation
+standard error of measurement
+standard error of the mean
+statins
+statistical analyses
+stearidonic acid
+steered molecular dynamics
+stereospecificity
+sterol regulatory element-binding proteins
+stinging cells
+stomata
+strawberry
+stroke
+structure activity
+structure elucidation
+structure-activity relationship
+structure-activity relationships
+subarachnoid hemorrhage
+substantia nigra pars compacta
+substrate tolerance
+succession
+sulfasalazine
+sulfur amino acids
+sulfur nutrition
+sunburn
+superoxide
+superoxide anion
+superoxide dismutase
+superoxyde
+supply chain
+supported lipid bilayers
+supramolecular chemistry
+surfactant protein
+survival
+symbiosis
+synapse
+syntenic chromosomal block
+synthesis
+synthetic analogues
+systemic circulation
+systemic defense response
+systemic defense responses
+systemic inflammation
+systemic inflammatory response syndrome
+systemic sclerosis
+tBuOMe (PubChem CID: 15413)
+tPOXC1
+taiga
+tandem mass spectrometry
+tannins
+taste bud
+tau
+tau protein
+taurine
+taxifolin
+temperate rain forest
+tendon
+tentacles
+terpenes
+terpenoid emission
+terrestrial plants
+testis
+theory
+therapeutics
+thermal inactivation
+thermal inactivation kinetics
+thermodynamics
+thiazolo-thiophene
+thin layer chromatography
+thiobarbituric acid
+thioglycollate
+thiosemicarbazone
+three-dimensional
+thrombin
+thrombosis
+thromboxane
+thromboxane A2 (TP) receptor
+thromboxane A2/B2
+thromboxane B2
+thromboxane synthase
+thromboxanes
+thyl) carbamoyl]ethyl]sulfanyl}-5-hydroxyeicosa-7,9,11,14-tetraenoic acid
+tight junction
+tissue
+tissue plasminogen activator
+titratable acidity
+tobacco peroxidase C1
+tofu
+toll-like receptor
+tomato
+tomato (Solanum lycopersicum L.)
+tomato chlorotic dwarf viroid (TCDVd)
+tomato juice
+tooth movement
+torsion/detorsion
+total cholesterol
+toxicity
+toxin
+trachea
+trafficking
+trans-1,2-diaminocyclohexane-N,N,N',N'-tetraacetic acid
+trans-Hex-2-enal
+trans-anethole
+trans-cinnamate 4-monooxygenase
+transactivation assay
+transcription
+transcription factor LIM
+transcriptional regulation
+transforming growth factor
+transforming growth factor beta
+transgenic mouse model
+transgenic mouse models
+transgenic tomato
+transglutaminase 2
+transient receptor potential vanilloid
+transient receptor potential vanilloid 1
+translocation
+transmigration
+treatment
+triacylglycerides
+triazoles
+triazolo[1,5-c]pyrimidine,1,2,4-oxadiazole
+trichophyton
+trihydroxyeicosatrienoic acids
+trihydroxyl octadecenoic acid
+trioxilins
+triterpene
+triterpenes
+triterpenoid glycoside
+tritrophic interactions
+trolox
+tropical rain forest
+tropism
+trypsin
+tube feet
+tumor necrosis factor
+tumor necrosis factor alpha
+tumor necrosis factor-alpha
+tumor necrosis factor-alpha-converting enzyme
+tumour necrosis factor
+tundra
+two-dimensional gel electrophoresis
+type 2 diabetes
+type 2 diabetes mellitus
+type I interferon (IFN-alpha/beta) receptor 1
+tyrosine kinase B
+tyrosol
+ulcerative colitis
+ultra high performance liquid chromatography tandem mass spectrometry
+ultrasound
+ultraviolet - visible light
+ultraviolet radiation
+ultraviolet radiation B
+ulvans
+umbilical  cord
+unesterified docosahexaenoic acid
+unfolded protein response
+unsaturated fatty acid
+unsaturated fatty acids
+untranslated region
+urease
+ureter
+urethra
+uridine 5'-diphosphate
+uridine triphosphate
+urinary system
+urine
+uronic acids
+uterus
+vaccination
+vaccine
+vagina
+vanilloid
+variable
+variants
+variation
+vascular bundles.
+vascular cell adhesion molecule-1
+vascular disorders
+vascular endothelial cells
+vascular endothelial cells.
+vascular endothelial growth factor
+vascular plant
+vascular remodeling
+vein
+ventricles
+vertebrae
+vertebrate
+very low density lipoprotein
+vestigial structure
+villi
+virgin olive oil
+virtual screening
+virus
+visual evoked potential
+vitamin
+vitamin B12
+vitamin B6
+vitellin
+volatile
+volatile aroma
+volatile compounds
+volatile organic compounds
+volatile organic compounds (VOCs)
+voltage-dependent anion channel
+voluntary muscle
+warfarin
+wasp venom
+water cycle
+water vascular system
+water-soluble fraction
+wetland
+wheat
+wheat flour
+withaferin-A
+woodchuck hepatitis virus
+wounding
+xanthine oxidase
+xanthine oxidase inhibition
+xanthones
+xylem
+xyloglucan endotransglycosylase/hydrolase
+yeast expression
+zafirlukast
+zileuton
+zygote
+zymosan A
