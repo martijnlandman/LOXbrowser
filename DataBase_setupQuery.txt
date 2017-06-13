@@ -1,0 +1,128 @@
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
+
+-- -----------------------------------------------------
+-- Schema mydb
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
+-- Schema mydb
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
+USE `mydb` ;
+
+-- -----------------------------------------------------
+-- Table `mydb`.`results`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`results` (
+  `pubMed_ID` INT(11) NOT NULL,
+  `url` VARCHAR(50) NOT NULL,
+  `Title` VARCHAR(100) NOT NULL,
+  PRIMARY KEY (`pubMed_ID`),
+  UNIQUE INDEX `url_UNIQUE` (`url` ASC),
+  UNIQUE INDEX `pubMed ID_UNIQUE` (`pubMed_ID` ASC))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`keywords`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`keywords` (
+  `keyword_ID` VARCHAR(45) NOT NULL,
+  `keyword` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`keyword_ID`))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`Author`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`Author` (
+  `idAuthor` VARCHAR(45) NOT NULL,
+  `initials` VARCHAR(10) NULL,
+  `Last_Name` VARCHAR(45) NULL,
+  PRIMARY KEY (`idAuthor`))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`Publication_date`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`Publication_date` (
+  `date` VARCHAR(4) NOT NULL,
+  PRIMARY KEY (`date`))
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`results_has_Author`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`results_has_Author` (
+  `results_pubMed_ID` INT(11) NOT NULL,
+  `Author_idAuthor` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`results_pubMed_ID`, `Author_idAuthor`),
+  INDEX `fk_results_has_Author_Author1_idx` (`Author_idAuthor` ASC),
+  INDEX `fk_results_has_Author_results_idx` (`results_pubMed_ID` ASC),
+  CONSTRAINT `fk_results_has_Author_results`
+    FOREIGN KEY (`results_pubMed_ID`)
+    REFERENCES `mydb`.`results` (`pubMed_ID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_results_has_Author_Author1`
+    FOREIGN KEY (`Author_idAuthor`)
+    REFERENCES `mydb`.`Author` (`idAuthor`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`results_has_keywords`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`results_has_keywords` (
+  `results_pubMed_ID` INT(11) NOT NULL,
+  `keywords_keyword_ID` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`results_pubMed_ID`, `keywords_keyword_ID`),
+  INDEX `fk_results_has_keywords_keywords1_idx` (`keywords_keyword_ID` ASC),
+  INDEX `fk_results_has_keywords_results1_idx` (`results_pubMed_ID` ASC),
+  CONSTRAINT `fk_results_has_keywords_results1`
+    FOREIGN KEY (`results_pubMed_ID`)
+    REFERENCES `mydb`.`results` (`pubMed_ID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_results_has_keywords_keywords1`
+    FOREIGN KEY (`keywords_keyword_ID`)
+    REFERENCES `mydb`.`keywords` (`keyword_ID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`results_has_Publication_date`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `mydb`.`results_has_Publication_date` (
+  `results_pubMed_ID` INT(11) NOT NULL,
+  `Publication_date_date` VARCHAR(4) NOT NULL,
+  PRIMARY KEY (`results_pubMed_ID`, `Publication_date_date`),
+  INDEX `fk_results_has_Publication_date_Publication_date1_idx` (`Publication_date_date` ASC),
+  INDEX `fk_results_has_Publication_date_results1_idx` (`results_pubMed_ID` ASC),
+  CONSTRAINT `fk_results_has_Publication_date_results1`
+    FOREIGN KEY (`results_pubMed_ID`)
+    REFERENCES `mydb`.`results` (`pubMed_ID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_results_has_Publication_date_Publication_date1`
+    FOREIGN KEY (`Publication_date_date`)
+    REFERENCES `mydb`.`Publication_date` (`date`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
