@@ -2,41 +2,31 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Output</title>
+    <title>SlideToUnlox</title>
 </head>
 <body bgcolor="#faebd7">
-<br>
-<table style="width:80%">
-  <tr>
-    <th>zoektermen</th>
-    <th>Organisme</th>
-    <th>Lox</th>
-	<th>auteur</th>
-	<th>versienummer</th>
-	<th>Datum</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td> 
-    <td></td>
-	<td></td>
-    <td></td> 
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td> 
-    <td></td>
-	<td></td>
-    <td></td> 
-    <td></td>
-  </tr>
-</table>
-<style>
-table, th, td {
-    border: 1px solid black;
-}
-</style>
+	<form action="/output" method="POST" style="text-align:center;">
+	<h1 style="font-size:300%;">SlideToUnlox</h1>
+	<p>Voer een keyword in en slide to unlox.</p>
+    <input type="text" name="woord" size="60%" placeholder="Search..">
+	<button type="submit" name="zoek" formaction="/output"> SEARCH </button>
+    </form>
+	<br>
+	<table border=1><tr><th><b>Pubmed id</b></th>
+					<th><b>Titel</b></th>
+					<th><b>Link</b></th>
+					<th><b>Keywords</b></th>
+					<th><b>Jaar van publicatie</b></th>
+					<th><b>Auteurs</b></th></tr>
+	{%for paper in papers%}
+		<tr><td>{{paper[0]}}</td>
+		<td>{{paper[1]}}</td>
+		<td><a href={{paper[2]}}>{{paper[2]}}</a></td>
+		<td>{{", ".join(paper[3])}}</td>
+		<td>{{paper[4]}}</td>
+		<td>{{", ".join(paper[5])}}</td></tr>
+	{%endfor%}
+	</table>
 
 </body>
 </html>
