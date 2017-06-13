@@ -14,14 +14,12 @@
 	<br>
 	<table border=1><tr><th><b>Pubmed id</b></th>
 					<th><b>Titel</b></th>
-					<th><b>Link</b></th>
 					<th><b>Keywords</b></th>
 					<th><b>Jaar van publicatie</b></th>
 					<th><b>Auteurs</b></th></tr>
 	{%for paper in papers%}
-		<tr><td>{{paper[0]}}</td>
+		<td><a href={{paper[2]}}>{{paper[0]}}</a></td>
 		<td>{{paper[1]}}</td>
-		<td><a href={{paper[2]}}>{{paper[2]}}</a></td>
 		<td>{{", ".join(paper[3])}}</td>
 		<td>{{paper[4]}}</td>
 		<td>{{", ".join(paper[5])}}</td></tr>

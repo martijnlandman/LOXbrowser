@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 13 12:37:38 2017
+
+@author: Martlan Landman, Roel Koper
+"""
+
 from flask import Flask, request , render_template
 import mysql.connector
 
@@ -19,7 +26,7 @@ def connectToDB():
     conn = mysql.connector.connect(host = "localhost",
                          user = "Martijn",
                          db="mydb",
-    						 passwd = "blaat1234")
+                         passwd = "blaat1234")
     return conn
 
 def searchTheDB(zoekterm):
@@ -80,4 +87,4 @@ def searchTheDB(zoekterm):
     return papers
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
