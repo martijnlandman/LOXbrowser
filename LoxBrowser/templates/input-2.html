@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='styles/onoff.css')}}">
+    <title>SlideToUnlox</title>
+	
+</head>
+<body bgcolor="#faebd7">
+    <form action="/output" method="POST" style="text-align:center;">
+	<h1 style="font-size:300%;">SlideToUnlox</h1>
+	<p>Voer een keyword in en slide to unlox.</p>
+    <input type="text" name="woord" size="60%" placeholder="Search..">
+	<div class="onoffswitch">
+        <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch">
+        <label class="onoffswitch-label" for="myonoffswitch">
+            <span class="onoffswitch-inner"></span>
+            <span class="onoffswitch-switch"></span>
+        </label>
+    </div>
+	
+    </form>
+</body>
+</html>

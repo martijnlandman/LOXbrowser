@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>SlideToUnlox</title>
+</head>
+<body bgcolor="#faebd7">
+	<form action="/output" method="POST" style="text-align:center;">
+	<h1 style="font-size:300%;">SlideToUnlox</h1>
+	<p>Voer een keyword in en slide to unlox.</p>
+    <input type="text" name="woord" size="60%" placeholder="Search..">
+	<button type="submit" name="zoek" formaction="/output"> SEARCH </button>
+    </form>
+	<br>
+	<table border=1><tr><th><b>Pubmed id</b></th>
+					<th><b>Titel</b></th>
+					<th><b>Keywords</b></th>
+					<th><b>Jaar van publicatie</b></th>
+					<th><b>Auteurs</b></th></tr>
+	{%for paper in papers%}
+		<td><a href={{paper[2]}}>{{paper[0]}}</a></td>
+		<td>{{paper[1]}}</td>
+		<td>{{", ".join(paper[3])}}</td>
+		<td>{{paper[4]}}</td>
+		<td>{{", ".join(paper[5])}}</td></tr>
+	{%endfor%}
+	</table>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+#well {
+  padding: 14px 20px 20px 20px;
+  -webkit-border-radius: 30px;
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(0, #010101),color-stop(1, #181818));
+  border: 2px solid #454545; 
+  overflow: hidden; 
+}
+
+h2 {
+  font-size: 80px;
+  background: -webkit-gradient(linear,left top,right top,color-stop(0, #4d4d4d),color-stop(0.4, #4d4d4d),color-stop(0.5, white),color-stop(0.6, #4d4d4d),color-stop(1, #4d4d4d)); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: slidetounlock 5s infinite;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  padding: 0;
+  width: 200%;
+}
+
+@-webkit-keyframes slidetounlock {
+  0% {
+    background-position: -720px 0;
+  }
+  100% {
+    background-position: 720px 0;
+  }
+}
