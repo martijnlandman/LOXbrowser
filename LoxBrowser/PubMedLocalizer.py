@@ -12,6 +12,8 @@ import os, time, nltk, mysql.connector
 TERM = '(("1990"[Date - Publication] : "3000"[Date - Publication]) AND lipoxygenase) NOT cancer'
 
 def main():
+    # Kijk of er al papers lokaal zijn opgeslagen. Als dit het geval is dan wordt er gekeken of
+    # er nieuwe papers zijn. Als er nog geen papers zijn dan worden deze gedownload.
     if checkPubMedFetched():
         updateCount = checkForUpdates()
         if updateCount > 0:
@@ -30,9 +32,11 @@ def main():
         recordParser()
         print("Saved all records in the database")
 
+# Checkt of het bestand PubMedFetched.txt bestaat
 def checkPubMedFetched():
     return os.path.isfile("PubMedFetched\\PubMedFetched.txt")
 
+# Verbindt met de database.
 def connectToDB():
     conn = mysql.connector.connect(host = "localhost",
                          user = "Martijn",
@@ -40,6 +44,9 @@ def connectToDB():
                          db="mydb")
     return conn
 
+# Het aantal papers die lokaal zijn opgeslagen wordt geteld  en dit getal wordt
+# vergeleken met het aantal beschikbare papers om vast te stellen of er nieuwe
+# papers
 def checkForUpdates():
     recordCount = 0
     with open("PubMedFetched\\PubMedFetched.txt") as handle:
@@ -50,6 +57,7 @@ def checkForUpdates():
     updateCount = paperCount-recordCount
     return updateCount
 
+# Checkt PubMed voor het aantal beschikbare papers.
 def getPaperCount():
     Entrez.email = 'A.N.Other@example.com'
     net_handle = Entrez.esearch(db='pubmed', retmax='1', term=TERM)
@@ -59,6 +67,8 @@ def getPaperCount():
     net_handle.close
     return paperCount
 
+# Haalt papers op van PubMed n batches van 500 (tenzij er minder dan 500 papers opgehaald
+# moeten worden). De papers worden vervolgens in het bestand PubMedFetched.txt weggeschreven.
 def fetchPapers(paperCount):
     search_handle = Entrez.esearch(db='pubmed', retmax=paperCount, idtype="acc", term=TERM, usehistory="y")
     result = Entrez.read(search_handle)
@@ -102,6 +112,8 @@ def fetchPapers(paperCount):
     out_handle.close()
     print("Downloaded and saved all {0} records".format(count))
 
+# De keywords uit BioCorpus.txt en de keywords uit de artikelen worden samengevoegd
+# in één lijst en vervolgens opgeslagen in BioCorpus.txt. (duplicaten worden verwijderd)
 def updateKeywords():
     try:
         keywords = []
@@ -123,6 +135,9 @@ def updateKeywords():
     except FileNotFoundError:
         print("Can't find PubMedFetched.txt in the PubMedFetched directory")
 
+# Loopt door de papers heen en geeft iedere paper door aan recordHandler().
+# Geeft de verkregen resultaten uit recordHandler() door aan resultsToDB() zodat
+# de resultaten worden opgeslagen.
 def recordParser():
     try:
         with open("PubMedFetched\\PubMedFetched.txt") as file_handle:
@@ -136,6 +151,8 @@ def recordParser():
     except FileNotFoundError:
         print("Can't find PubMedFetched.txt in the PubMedFetched directory")
 
+# Haalt de relevante informatie uit de paper en zet dit in een dictionary.
+# Als er informatie ontbreekt in de paper dan wordt deze overgeslagen.
 def recordHandler(record):
     try:
         results = {}
@@ -152,6 +169,7 @@ def recordHandler(record):
         print("Disrecarding record for lacking information")
         return False
 
+# Doorzoekt de abstract en de titel op de keywords uit de BioCorpus.
 def textMiner(abstract, title):
     keywords = []
     words = nltk.word_tokenize(abstract) + nltk.word_tokenize(title)
@@ -163,6 +181,7 @@ def textMiner(abstract, title):
     
     return sorted(list(set(keywords)))
 
+# Slaat de informatie uit de papers op in de database.
 def resultsToDB(results):
     conn = connectToDB()
     cursor = conn.cursor()

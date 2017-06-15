@@ -19,9 +19,9 @@ def index():
 def output():
     zoekterm = request.form.get("woord")
     papers = searchTheDB(zoekterm)
-#    return str(papers)
     return render_template("output.html", papers=papers)
 
+# Verbindt met de database.
 def connectToDB():
     conn = mysql.connector.connect(host = "localhost",
                          user = "Martijn",
@@ -29,6 +29,8 @@ def connectToDB():
                          passwd = "blaat1234")
     return conn
 
+# Doorzoekt de database naar de papers die de zoekterm bevatten en haalt vervolgens
+# alle informatie op die aan de gevonden papers is gekoppeld.
 def searchTheDB(zoekterm):
     conn = connectToDB()
     cursor = conn.cursor()
